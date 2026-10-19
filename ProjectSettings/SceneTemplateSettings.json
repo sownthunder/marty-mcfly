@@ -1,5 +1,14 @@
 {
-    "templatePinStates": [],
+    "templatePinStates": [
+        {
+            "templateId": "Basic (Built-in / Deprecated)",
+            "isEnabled": true
+        },
+        {
+            "templateId": "Outdoors (URP)",
+            "isEnabled": true
+        }
+    ],
     "dependencyTypeInfos": [
         {
             "userAdded": false,

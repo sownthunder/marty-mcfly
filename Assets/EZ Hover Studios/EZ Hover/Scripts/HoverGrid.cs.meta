@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0ef8221a9df40d49b7f8e0f4b4eb7a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217126
+  packageName: EZ Hover
+  packageVersion: 1.1.0
+  assetPath: Assets/EZ Hover Studios/EZ Hover/Scripts/HoverGrid.cs
+  uploadId: 498649

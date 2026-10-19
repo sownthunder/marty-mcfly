@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa62339ca49ff55448818e8440fb1f75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217126
+  packageName: EZ Hover
+  packageVersion: 1.1.0
+  assetPath: Assets/EZ Hover Studios/EZ Hover/Demo/Materials/Emission.mat
+  uploadId: 498649

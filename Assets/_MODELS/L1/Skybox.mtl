@@ -1,0 +1,112 @@
+# Blender 4.5.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl L1_CLOUD_1_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd L1_CLOUD_1.bmp.png
+map_d L1_CLOUD_1.bmp.png
+
+newmtl L1_CLOUD_2_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd L1_CLOUD_2.bmp.png
+map_d L1_CLOUD_2.bmp.png
+
+newmtl L1_CLOUD_2_m.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd L1_CLOUD_2.bmp.png
+map_d L1_CLOUD_2.bmp.png
+
+newmtl L1_CLOUD_2_m.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd L1_CLOUD_2.bmp.png
+map_d L1_CLOUD_2.bmp.png
+
+newmtl char_swatches_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd char_swatches.bmp.png
+
+newmtl l1_BACKMOUNTAINS_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l1_BACKMOUNTAINS.bmp.png
+map_d l1_BACKMOUNTAINS.bmp.png
+
+newmtl l1_backfade2_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l1_backfade2.bmp.png
+
+newmtl l1_backfade_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l1_backfade.bmp.png
+
+newmtl l1_banner_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l1_banner.bmp.png
+
+newmtl l1_valleybackground_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l1_valleybackground.bmp.png
+map_d l1_valleybackground.bmp.png
+
+newmtl l1_valleybackground_m.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l1_valleybackground.bmp.png
+map_d l1_valleybackground.bmp.png

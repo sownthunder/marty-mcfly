@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0050aeb8bff36234189dadd9e36def33
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217126
+  packageName: EZ Hover
+  packageVersion: 1.1.0
+  assetPath: Assets/EZ Hover Studios/EZ Hover/Demo/Terrain/Terrain.asset
+  uploadId: 498649
