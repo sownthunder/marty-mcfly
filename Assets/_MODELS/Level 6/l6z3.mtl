@@ -1,0 +1,327 @@
+newmtl WindowRail_m
+Kd 1 1 1
+map_Kd WindowRail.bmp.png
+newmtl dockWood_m
+Kd 1 1 1
+map_Kd dockWood.bmp.png
+newmtl WindowTopNoShadows_m
+Kd 1 1 1
+map_Kd WindowTopNoShadows.bmp.png
+newmtl boat_m
+Kd 1 1 1
+map_Kd boat.bmp.png
+newmtl WindowRight_m1
+Kd 1 1 1
+map_Kd WindowRight.bmp.png
+newmtl WindowRight_m
+Kd 1 1 1
+map_Kd WindowRight.bmp1.png
+newmtl WindowLeft_m1
+Kd 1 1 1
+map_Kd WindowLeft.bmp.png
+newmtl WindowLeft_m
+Kd 1 1 1
+map_Kd WindowLeft.bmp1.png
+newmtl WindowGlass_m
+Kd 1 1 1
+map_Kd WindowGlass.bmp.png
+newmtl Wall_m
+Kd 1 1 1
+map_Kd Wall.bmp.png
+newmtl TopWindows_m
+Kd 1 1 1
+map_Kd TopWindows.bmp.png
+newmtl TopSmallWindow_m
+Kd 1 1 1
+map_Kd TopSmallWindow.bmp.png
+newmtl ToEatSign_m
+Kd 1 1 1
+map_Kd ToEatSign.bmp.png
+newmtl StreetLamp_oldC_m
+Kd 1 1 1
+map_Kd StreetLamp_oldC.bmp.png
+newmtl SpagettiSign_m
+Kd 1 1 1
+map_Kd SpagettiSign.bmp.png
+newmtl SpagettiSign_glow_m
+Kd 1 1 1
+map_Kd SpagettiSign_glow.bmp.png
+newmtl Smallboat_m
+Kd 1 1 1
+map_Kd Smallboat.bmp.png
+newmtl Smallboat_b_m
+Kd 1 1 1
+map_Kd Smallboat_b.bmp.png
+newmtl Schell_m
+Kd 1 1 1
+map_Kd Schell.bmp.png
+newmtl PlaceForCodeSign_m
+Kd 1 1 1
+map_Kd PlaceForCodeSign.bmp.png
+newmtl PlaceForCodeSign_glow_m
+Kd 1 1 1
+map_Kd PlaceForCodeSign_glow.bmp.png
+newmtl Pink_wrhse_B_m
+Kd 1 1 1
+map_Kd Pink_wrhse_B.bmp.png
+newmtl MyFirstTattoSign02_m
+Kd 1 1 1
+map_Kd MyFirstTattoSign02.bmp.png
+newmtl MyFirstTattoSign01_m
+Kd 1 1 1
+map_Kd MyFirstTattoSign01.bmp.png
+newmtl Muffins_m
+Kd 1 1 1
+map_Kd Muffins.bmp.png
+newmtl MuffinsSmall_m
+Kd 1 1 1
+map_Kd MuffinsSmall.bmp.png
+newmtl MuchAdoSign_m
+Kd 1 1 1
+map_Kd MuchAdoSign.bmp.png
+newmtl Metal_roof_green_m
+Kd 1 1 1
+map_Kd Metal_roof_green.bmp.png
+newmtl MalariaWood_m
+Kd 1 1 1
+map_Kd MalariaWood.bmp.png
+newmtl MalariaWindow_m
+Kd 1 1 1
+map_Kd MalariaWindow.bmp.png
+newmtl MalariaSign_m
+Kd 1 1 1
+map_Kd MalariaSign.bmp.png
+newmtl MalariaDoor_m
+Kd 1 1 1
+map_Kd MalariaDoor.bmp.png
+newmtl Lighthouse_B_m
+Kd 1 1 1
+map_Kd Lighthouse_B.bmp.png
+newmtl Knife_m
+Kd 1 1 1
+map_Kd Knife.bmp.png
+newmtl KnifeWindow_m
+Kd 1 1 1
+map_Kd KnifeWindow.bmp.png
+newmtl KnifeSign_m
+Kd 1 1 1
+map_Kd KnifeSign.bmp.png
+newmtl KnifeDoor_m
+Kd 1 1 1
+map_Kd KnifeDoor.bmp.png
+newmtl Itchy_ScrachySign_m
+Kd 1 1 1
+map_Kd Itchy&ScrachySign.bmp.png
+newmtl Itchy_ScrachySign_glow2_m
+Kd 1 1 1
+map_Kd Itchy&ScrachySign_glow2.bmp.png
+newmtl Itchy_ScrachySign_cherry_s_m
+Kd 1 1 1
+map_Kd Itchy&ScrachySign_cherry's.bmp.png
+newmtl ItchyScratchyPoster_m1
+Kd 1 1 1
+map_Kd androidsdungeon.BMP.png
+newmtl ItchyScratchyPoster_m
+Kd 1 1 1
+map_Kd ItchyScratchyPoster.bmp.png
+newmtl Hart_m
+Kd 1 1 1
+map_Kd Hart.bmp.png
+newmtl Foliageb_m
+Kd 1 1 1
+map_Kd Foliageb.BMP.png
+newmtl Doors_m299
+Kd 1 1 1
+map_Kd Doors.bmp1.png
+newmtl Doors_m
+Kd 1 1 1
+map_Kd Doors.bmp.png
+newmtl Door_m1
+Kd 1 1 1
+map_Kd Door.bmp.png
+newmtl burnsboat_m
+Kd 1 1 1
+map_Kd burnsboat.bmp.png
+newmtl bullfighting_m
+Kd 1 1 1
+map_Kd bullfighting.bmp.png
+newmtl Crypto_glow_m
+Kd 1 1 1
+map_Kd Crypto_glow.bmp.png
+newmtl CryptoBarnSign_m
+Kd 1 1 1
+map_Kd CryptoBarnSign.bmp.png
+newmtl CarTire_m
+Kd 1 1 1
+map_Kd CarTire.bmp.png
+newmtl BrickGrenWall_m
+Kd 1 1 1
+map_Kd BrickGrenWall.bmp.png
+newmtl BoatB_m
+Kd 1 1 1
+map_Kd BoatB.bmp.png
+newmtl BigWindows_m
+Kd 1 1 1
+map_Kd BigWindows.bmp.png
+newmtl Barn_glow_m
+Kd 1 1 1
+map_Kd Barn_glow.bmp.png
+newmtl wrf_brown_A_m
+Kd 1 1 1
+map_Kd wrf_brown_A.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl anchorTies_m
+Kd 1 1 1
+map_Kd anchorTies.bmp.png
+newmtl waterA_m
+Kd 1 1 1
+map_Kd waterA.bmp.png
+newmtl waterA_cola_m1
+Kd 1 1 1
+map_Kd waterA_cola.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl grate_treeA_m
+Kd 1 1 1
+map_Kd grate_treeA.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl chain_m
+Kd 1 1 1
+map_Kd chain.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl char_swatches_m1
+Kd 1 1 1
+map_Kd char_swatches.bmp1.png
+newmtl colabration_alt_m
+Kd 1 1 1
+map_Kd colabration_alt.bmp.png
+newmtl colapipe_m
+Kd 1 1 1
+map_Kd colapipe.bmp.png
+newmtl dock_lights_m
+Kd 1 1 1
+map_Kd dock_lights.bmp.png
+newmtl dock_m
+Kd 1 1 1
+map_Kd dock.bmp.png
+newmtl humancola_billboard_m
+Kd 1 1 1
+map_Kd humancola_billboard.bmp.png
+newmtl jeepHoodNorm_m
+Kd 1 1 1
+map_Kd jeepHoodNorm.bmp.png
+newmtl jeepDoorDNorm_m
+Kd 1 1 1
+map_Kd jeepDoorDNorm.bmp.png
+newmtl lighthouse_alone_Lighthouse_D_m
+Kd 1 1 1
+map_Kd Lighthouse_D.bmp.png
+newmtl lighthouse_alone_Lighthouse_B_m
+Kd 1 1 1
+map_Kd Lighthouse_B.bmp.png
+newmtl lighthouse_alone_char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl lighthouse_alone_MalariaWood_m
+Kd 1 1 1
+map_Kd MalariaWood.bmp.png
+newmtl lighthouse_alone_Metal_roof_green_m
+Kd 1 1 1
+map_Kd Metal_roof_green.bmp.png
+newmtl lighthouse_alone_dockWood_m
+Kd 1 1 1
+map_Kd dockWood.bmp.png
+newmtl lighthouse_alone_char_swatches_m1
+Kd 1 1 1
+map_Kd char_swatches.bmp1.png
+newmtl lighthouse_alone_concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl lighthouse_alone_steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl lighthouse_alone_picnic_table_m
+Kd 1 1 1
+map_Kd picnic_table.bmp.png
+newmtl lighthouse_alone_steel_fence_m
+Kd 1 1 1
+map_Kd steel_fence.bmp.png
+newmtl metal_m
+Kd 1 1 1
+map_Kd metal.bmp.png
+newmtl lighthouse_alone_wrf_brown_A_m
+Kd 1 1 1
+map_Kd wrf_brown_A.bmp.png
+newmtl lighthouse_alone_wrf_brown_B_m
+Kd 1 1 1
+map_Kd wrf_brown_B.bmp.png
+newmtl railing_m
+Kd 1 1 1
+map_Kd railing.bmp.png
+newmtl partyship_m
+Kd 1 1 1
+map_Kd partyship.bmp.png
+newmtl partyship_win_m
+Kd 1 1 1
+map_Kd partyship_win.bmp.png
+newmtl springfieldArch_m
+Kd 1 1 1
+map_Kd springfieldArch.bmp.png
+newmtl railing_m1
+Kd 1 1 1
+map_Kd railing.bmp.png
+newmtl streetlampB_m
+Kd 1 1 1
+map_Kd streetlampB.bmp.png
+newmtl steel_fence_m
+Kd 1 1 1
+map_Kd steel_fence.bmp.png
+newmtl wrf_brown_D_m
+Kd 1 1 1
+map_Kd wrf_brown_D.bmp.png
+newmtl wrf_brown_B_m
+Kd 1 1 1
+map_Kd wrf_brown_B.bmp.png
+newmtl wrf_brown_C_m
+Kd 1 1 1
+map_Kd wrf_brown_C.bmp.png
+newmtl wrf_wood_A_m
+Kd 1 1 1
+map_Kd wrf_wood_A.bmp.png
+newmtl wrf_purple_A_m
+Kd 1 1 1
+map_Kd wrf_purple_A.bmp.png
+newmtl wrf_purple_C_m
+Kd 1 1 1
+map_Kd wrf_purple_C.bmp.png
+newmtl wrf_wood_E_m
+Kd 1 1 1
+map_Kd wrf_wood_E.bmp.png
+newmtl wrf_wood_B_m
+Kd 1 1 1
+map_Kd wrf_wood_B.bmp.png
+newmtl wrf_wood_C_m
+Kd 1 1 1
+map_Kd wrf_wood_C.bmp.png
+newmtl Door_m
+Kd 1 1 1
+map_Kd Door.bmp1.png
+newmtl Dock_railing_m
+Kd 1 1 1
+map_Kd Dock_railing.bmp.png
+newmtl Windows_m
+Kd 1 1 1
+map_Kd Windows.bmp.png
+newmtl Window_m
+Kd 1 1 1
+map_Kd Window.bmp.png

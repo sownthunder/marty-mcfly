@@ -1,0 +1,126 @@
+newmtl ant_green_C_m
+Kd 1 1 1
+map_Kd ant_green_C.bmp.png
+newmtl ant_porch_m
+Kd 1 1 1
+map_Kd ant_porch.bmp.png
+newmtl ant_yellow_A_m
+Kd 1 1 1
+map_Kd ant_yellow_A.bmp.png
+newmtl ant_yellow_B_m
+Kd 1 1 1
+map_Kd ant_yellow_B.bmp.png
+newmtl ant_yellow_C_m
+Kd 1 1 1
+map_Kd ant_yellow_C.bmp.png
+newmtl ant_green_A_m
+Kd 1 1 1
+map_Kd ant_green_A.bmp.png
+newmtl burns_sign_m
+Kd 1 1 1
+map_Kd burns_sign.bmp.png
+newmtl casino_garden_b_m
+Kd 1 1 1
+map_Kd casino_garden_b.bmp.png
+newmtl casino_garden_c_m
+Kd 1 1 1
+map_Kd casino_garden_c.bmp.png
+newmtl Bigleaf_m
+Kd 1 1 1
+map_Kd Bigleaf.bmp.png
+newmtl ant_green_B_m
+Kd 1 1 1
+map_Kd ant_green_B.bmp.png
+newmtl cola1_m
+Kd 1 1 1
+map_Kd cola1.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl dockWood_m
+Kd 1 1 1
+map_Kd dockWood.bmp.png
+newmtl dock_fence_m
+Kd 1 1 1
+map_Kd dock_fence.bmp.png
+newmtl doors_casino_m
+Kd 1 1 1
+map_Kd doors_casino.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl grey_roof_shingles_m
+Kd 1 1 1
+map_Kd grey_roof_shingles.bmp.png
+newmtl gry_found_light_wrm_m
+Kd 1 1 1
+map_Kd gry_found_light_wrm.bmp.png
+newmtl casino_sign_m
+Kd 1 1 1
+map_Kd casino_sign.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl dock2_m
+Kd 1 1 1
+map_Kd dock2.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl anim_lights_m
+Kd 1 1 1
+map_Kd anim_lights.bmp.png
+newmtl r2dynamics_rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl sign_gunter_ernst_m
+Kd 1 1 1
+map_Kd sign_gunter_ernst.bmp.png
+newmtl sign_lanceb_m
+Kd 1 1 1
+map_Kd sign_lanceb.bmp.png
+newmtl stars_m
+Kd 1 1 1
+map_Kd stars.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl stuts_m
+Kd 1 1 1
+map_Kd stuts.bmp.png
+newmtl suicycle_sign_m
+Kd 1 1 1
+map_Kd suicycle_sign.bmp.png
+newmtl Treetrunk_redwood_m
+Kd 1 1 1
+map_Kd Treetrunk_redwood.BMP.png
+newmtl Dock_railing_m
+Kd 1 1 1
+map_Kd Dock_railing.bmp.png
+newmtl ItchyScratchyPoster_m
+Kd 1 1 1
+map_Kd ItchyScratchyPoster.bmp.png
+newmtl ant_blue_B_m
+Kd 1 1 1
+map_Kd ant_blue_B.bmp.png
+newmtl ant_blue_A_m
+Kd 1 1 1
+map_Kd ant_blue_A.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl ant_blue_C_m
+Kd 1 1 1
+map_Kd ant_blue_C.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png

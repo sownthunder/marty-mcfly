@@ -1,0 +1,222 @@
+newmtl com_purple_c_m
+Kd 1 1 1
+map_Kd com_purple_c.bmp.png
+newmtl com_purp_m
+Kd 1 1 1
+map_Kd com_purp.BMP.png
+newmtl com_pink_f_m
+Kd 1 1 1
+map_Kd com_pink_f.bmp.png
+newmtl com_orn_m
+Kd 1 1 1
+map_Kd com_orn.BMP.png
+newmtl com_green_m
+Kd 1 1 1
+map_Kd com_green.bmp.png
+newmtl com_green_c_m
+Kd 1 1 1
+map_Kd com_green_c.bmp.png
+newmtl com_green_b_m
+Kd 1 1 1
+map_Kd com_green_b.bmp.png
+newmtl com_green_A_m
+Kd 1 1 1
+map_Kd com_green_A.bmp.png
+newmtl com_blue_m
+Kd 1 1 1
+map_Kd com_blue.BMP.png
+newmtl com_biege_m
+Kd 1 1 1
+map_Kd com_biege.BMP.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl canopy_lime_m
+Kd 1 1 1
+map_Kd canopy_lime.bmp.png
+newmtl bowl_o_rama_m
+Kd 1 1 1
+map_Kd bowl_o_rama.bmp.png
+newmtl ant_yellow_c_m
+Kd 1 1 1
+map_Kd ant_yellow_c.bmp.png
+newmtl ant_yellow_b_m
+Kd 1 1 1
+map_Kd ant_yellow_b.bmp.png
+newmtl ant_yellow_A_m
+Kd 1 1 1
+map_Kd ant_yellow_A.bmp.png
+newmtl ant_purp_C_m
+Kd 1 1 1
+map_Kd ant_purp_C.BMP.png
+newmtl ant_purp_B_m
+Kd 1 1 1
+map_Kd ant_purp_B.BMP.png
+newmtl ant_purp_A_m
+Kd 1 1 1
+map_Kd ant_purp_A.bmp.png
+newmtl ant_porch_m
+Kd 1 1 1
+map_Kd ant_porch.bmp.png
+newmtl ant_green_C_m
+Kd 1 1 1
+map_Kd ant_green_C.bmp.png
+newmtl ant_green_B_m
+Kd 1 1 1
+map_Kd ant_green_B.bmp.png
+newmtl ant_green_A_m
+Kd 1 1 1
+map_Kd ant_green_A.bmp.png
+newmtl ant_blue_C_m
+Kd 1 1 1
+map_Kd ant_blue_C.bmp.png
+newmtl ant_blue_B_m
+Kd 1 1 1
+map_Kd ant_blue_B.bmp.png
+newmtl ant_blue_A_m
+Kd 1 1 1
+map_Kd ant_blue_A.bmp.png
+newmtl ant_aqua_C_m
+Kd 1 1 1
+map_Kd ant_aqua_C.bmp.png
+newmtl ant_aqua_B_m
+Kd 1 1 1
+map_Kd ant_aqua_B.bmp.png
+newmtl ant_aqua_A_m
+Kd 1 1 1
+map_Kd ant_aqua_A.bmp.png
+newmtl air_cond_m
+Kd 1 1 1
+map_Kd air_cond.bmp.png
+newmtl ad_floor_m
+Kd 1 1 1
+map_Kd ad_floor.bmp.png
+newmtl Uncle_Jim_s_Country_Fillin__m
+Kd 1 1 1
+map_Kd Uncle Jim's Country Fillin'.bmp.png
+newmtl Treetrunk_redwood_m
+Kd 1 1 1
+map_Kd Treetrunk_redwood.BMP.png
+newmtl PopMachine_m
+Kd 1 1 1
+map_Kd PopMachine.bmp.png
+newmtl Palmtrees_trunk_m1
+Kd 1 1 1
+map_Kd Palmtrees_trunk.bmp.png
+newmtl Palmtrees_m
+Kd 1 1 1
+map_Kd Palmtrees.bmp.png
+newmtl Foliagecyelgrn_m1
+Kd 1 1 1
+map_Kd Foliagecyelgrn.BMP.png
+newmtl Foliagecyelgrn_m
+Kd 1 1 1
+map_Kd Foliagecyelgrn.BMP.png
+newmtl Foliagebyel_m
+Kd 1 1 1
+map_Kd Foliagebyel.BMP.png
+newmtl Cementtruck_c_m
+Kd 1 1 1
+map_Kd Cementtruck_c.bmp.png
+newmtl Cementtruck_b_m
+Kd 1 1 1
+map_Kd Cementtruck_b.bmp.png
+newmtl com_purple_b_m
+Kd 1 1 1
+map_Kd com_purple_b.bmp.png
+newmtl com_purple_a_m
+Kd 1 1 1
+map_Kd com_purple_a.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl shingles_green_m
+Kd 1 1 1
+map_Kd shingles_green.bmp.png
+newmtl shingles_grey_m
+Kd 1 1 1
+map_Kd shingles_grey.bmp.png
+newmtl shingles_grey_m1
+Kd 1 1 1
+map_Kd shingles_grey.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl steps_conc_m1
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl vent_m
+Kd 1 1 1
+map_Kd vent.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl gry_found_light_wrm_m
+Kd 1 1 1
+map_Kd gry_found_light_wrm.bmp.png
+newmtl rd3_cobbletest_m
+Kd 1 1 1
+map_Kd rd3_cobble.BMP.png
+newmtl rd3_cobblebrown_m
+Kd 1 1 1
+map_Kd rd3_cobblebrown.bmp.png
+newmtl rd2_crosswalkbrown_m
+Kd 1 1 1
+map_Kd rd2_crosswalkbrown.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl asphalt_normbrown_m
+Kd 1 1 1
+map_Kd asphalt_normbrown.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl com_purple_d_m
+Kd 1 1 1
+map_Kd com_purple_d.bmp.png
+newmtl com_sand_b_m
+Kd 1 1 1
+map_Kd com_sand_b.bmp.png
+newmtl concrete_m1
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl fence_iron_m
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl fence_iron_m1
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl firetruck_wheel_m
+Kd 1 1 1
+map_Kd firetruck_wheel.bmp.png
+newmtl garageDoor_m
+Kd 1 1 1
+map_Kd garageDoor.bmp.png
+newmtl gasPump_m
+Kd 1 1 1
+map_Kd gasPump.bmp.png
+newmtl krusty_friends_m
+Kd 1 1 1
+map_Kd krusty_friends.bmp.png
+newmtl newsign_m
+Kd 1 1 1
+map_Kd newsign.bmp.png
+newmtl Cementtruck_a_m
+Kd 1 1 1
+map_Kd Cementtruck_a.bmp.png
+newmtl BenchFlat_m
+Kd 1 1 1
+map_Kd BenchFlat.bmp.png
+newmtl tire_m
+Kd 1 1 1
+map_Kd tire.bmp.png
+newmtl streetlampGreen_m
+Kd 1 1 1
+map_Kd streetlampGreen.bmp.png

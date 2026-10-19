@@ -1,0 +1,81 @@
+newmtl Dam_a_m
+Kd 1 1 1
+map_Kd Dam_a.bmp.png
+newmtl r5track_grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl r5track_sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl r5track_rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl Foliageb_m
+Kd 1 1 1
+map_Kd Foliageb.BMP.png
+newmtl Eat_deer_m
+Kd 1 1 1
+map_Kd Eat deer.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl r5track_rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl r5track_asphalt_norm_m1
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl r5track_asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl r5track_ocean1_m
+Kd 1 1 1
+map_Kd ocean1.bmp.png
+newmtl FoliageA_m
+Kd 1 1 1
+map_Kd FoliageA.BMP.png
+newmtl Metal_roof_blue_m
+Kd 1 1 1
+map_Kd Metal_roof_blue.bmp.png
+newmtl Treetrunk_redwood_m
+Kd 1 1 1
+map_Kd Treetrunk_redwood.BMP.png
+newmtl Treetrunk_stump_m
+Kd 1 1 1
+map_Kd Treetrunk_stump.bmp.png
+newmtl com_blue_m
+Kd 1 1 1
+map_Kd com_blue.BMP.png
+newmtl com_orn_m
+Kd 1 1 1
+map_Kd com_orn.BMP.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl hamahoy_m
+Kd 1 1 1
+map_Kd hamahoy.bmp.png
+newmtl kudd_m
+Kd 1 1 1
+map_Kd kudd.bmp.png
+newmtl ocean1_m
+Kd 1 1 1
+map_Kd ocean1.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl shingles_green_m
+Kd 1 1 1
+map_Kd shingles_green.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png

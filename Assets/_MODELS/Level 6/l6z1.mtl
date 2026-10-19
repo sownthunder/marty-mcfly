@@ -1,0 +1,285 @@
+newmtl noiseland_sign_m
+Kd 1 1 1
+map_Kd noiseland_sign.bmp.png
+newmtl wally_awning_m
+Kd 1 1 1
+map_Kd wally_awning.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl wally_hat_m
+Kd 1 1 1
+map_Kd wally_hat.bmp.png
+newmtl wally_pizza_m
+Kd 1 1 1
+map_Kd wally_pizza.bmp.png
+newmtl street_lamp_m
+Kd 1 1 1
+map_Kd street_lamp.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl shingles_grey_m
+Kd 1 1 1
+map_Kd shingles_grey.bmp.png
+newmtl shingles_green_m
+Kd 1 1 1
+map_Kd shingles_green.bmp.png
+newmtl rd3_cobble_m
+Kd 1 1 1
+map_Kd rd3_cobble.BMP.png
+newmtl noiseland_win_c_m
+Kd 1 1 1
+map_Kd noiseland_win_c.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl noiseland_win_a_m
+Kd 1 1 1
+map_Kd noiseland_win_a.bmp.png
+newmtl noiseland_win_b_m
+Kd 1 1 1
+map_Kd noiseland_win_b.bmp.png
+newmtl noiseland_wall_b_m
+Kd 1 1 1
+map_Kd noiseland_wall_b.bmp.png
+newmtl noiseland_wall_a_m
+Kd 1 1 1
+map_Kd noiseland_wall_a.bmp.png
+newmtl wally_door_m
+Kd 1 1 1
+map_Kd wally_door.bmp.png
+newmtl noiseland_door_c_m
+Kd 1 1 1
+map_Kd noiseland_door_c.bmp.png
+newmtl noiseland_door_b_m
+Kd 1 1 1
+map_Kd noiseland_door_b.bmp.png
+newmtl noiseland_door_a_m
+Kd 1 1 1
+map_Kd noiseland_door_a.bmp.png
+newmtl noiseland_brick_m
+Kd 1 1 1
+map_Kd noiseland_brick.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl krust_wall_m
+Kd 1 1 1
+map_Kd krust_wall.bmp.png
+newmtl krust_sign_m
+Kd 1 1 1
+map_Kd krust_sign.bmp.png
+newmtl noiseland_wall_c_m
+Kd 1 1 1
+map_Kd noiseland_wall_c.bmp.png
+newmtl krust_frontdoor_m
+Kd 1 1 1
+map_Kd krust_frontdoor.bmp.png
+newmtl krust_backdoor_m
+Kd 1 1 1
+map_Kd krust_backdoor.bmp.png
+newmtl int_shirt_stripes_m
+Kd 1 1 1
+map_Kd int_shirt_stripes.bmp.png
+newmtl krust_roof_m
+Kd 1 1 1
+map_Kd krust_roof.bmp.png
+newmtl int_and_wooddark_m
+Kd 1 1 1
+map_Kd int_and_wooddark.bmp.png
+newmtl int_and_till_m
+Kd 1 1 1
+map_Kd int_and_till.bmp.png
+newmtl int_and_shirtC_m
+Kd 1 1 1
+map_Kd int_and_shirtC.bmp.png
+newmtl int_and_shirtB_m
+Kd 1 1 1
+map_Kd int_and_shirtB.bmp.png
+newmtl int_and_radiostand_m
+Kd 1 1 1
+map_Kd int_and_radiostand.bmp.png
+newmtl int_and_glass_m
+Kd 1 1 1
+map_Kd int_and_glass.bmp.png
+newmtl int_and_cpu_m
+Kd 1 1 1
+map_Kd int_and_cpu.bmp.png
+newmtl int_and_comics_m
+Kd 1 1 1
+map_Kd int_and_comics.bmp.png
+newmtl int_and_boxes_m
+Kd 1 1 1
+map_Kd int_and_boxes.bmp.png
+newmtl hamahoy_m
+Kd 1 1 1
+map_Kd hamahoy.bmp.png
+newmtl gry_found_light_wrm_m
+Kd 1 1 1
+map_Kd gry_found_light_wrm.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl glass_sunset_m
+Kd 1 1 1
+map_Kd glass_sunset.bmp.png
+newmtl fence_iron_m
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl com_sand_c_m
+Kd 1 1 1
+map_Kd com_sand_c.bmp.png
+newmtl com_sand_D_m
+Kd 1 1 1
+map_Kd com_sand_D.bmp.png
+newmtl com_sand_A_m
+Kd 1 1 1
+map_Kd com_sand_A.bmp.png
+newmtl com_purple_d_m
+Kd 1 1 1
+map_Kd com_purple_d.bmp.png
+newmtl com_purple_c_m
+Kd 1 1 1
+map_Kd com_purple_c.bmp.png
+newmtl com_purple_b_m
+Kd 1 1 1
+map_Kd com_purple_b.bmp.png
+newmtl com_purple_a_m
+Kd 1 1 1
+map_Kd com_purple_a.bmp.png
+newmtl int_and_woodlight_m
+Kd 1 1 1
+map_Kd int_and_woodlight.bmp.png
+newmtl com_pink_F_m
+Kd 1 1 1
+map_Kd com_pink_F.bmp.png
+newmtl com_orn_m
+Kd 1 1 1
+map_Kd com_orn.BMP.png
+newmtl com_mint_A_m
+Kd 1 1 1
+map_Kd com_mint_A.bmp.png
+newmtl com_green_m
+Kd 1 1 1
+map_Kd com_green.BMP.png
+newmtl com_green_c_m
+Kd 1 1 1
+map_Kd com_green_c.bmp.png
+newmtl wally_sign_left_m
+Kd 1 1 1
+map_Kd wally_sign_left.bmp.png
+newmtl wally_sign_center_m
+Kd 1 1 1
+map_Kd wally_sign_center.bmp.png
+newmtl com_blue_m
+Kd 1 1 1
+map_Kd com_blue.BMP.png
+newmtl com_biege_m
+Kd 1 1 1
+map_Kd com_biege.BMP.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl canopy_red_m
+Kd 1 1 1
+map_Kd canopy_red.bmp.png
+newmtl andint_char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl air_cond_m
+Kd 1 1 1
+map_Kd air_cond.bmp.png
+newmtl ad_window_m
+Kd 1 1 1
+map_Kd ad_window.bmp.png
+newmtl ad_wall_m
+Kd 1 1 1
+map_Kd ad_wall.bmp.png
+newmtl ad_sign_m
+Kd 1 1 1
+map_Kd ad_sign.bmp.png
+newmtl ad_floor_m
+Kd 1 1 1
+map_Kd ad_floor.bmp.png
+newmtl ad_curtain_m
+Kd 1 1 1
+map_Kd ad_curtain.bmp.png
+newmtl ad_counter_m
+Kd 1 1 1
+map_Kd ad_counter.bmp.png
+newmtl ad_billboard_m
+Kd 1 1 1
+map_Kd ad_billboard.bmp.png
+newmtl ad_awning_m
+Kd 1 1 1
+map_Kd ad_awning.bmp.png
+newmtl Vent_m
+Kd 1 1 1
+map_Kd Vent.bmp.png
+newmtl Metal_roof_blue_m
+Kd 1 1 1
+map_Kd Metal_roof_blue.bmp.png
+newmtl Foliagecyelgrn_m
+Kd 1 1 1
+map_Kd Foliagecyelgrn.BMP.png
+newmtl DeliNewsSign_m
+Kd 1 1 1
+map_Kd DeliNewsSign.bmp.png
+newmtl CaffeBooksSign_m
+Kd 1 1 1
+map_Kd CaffeBooksSign.bmp.png
+newmtl BenchFlat_m
+Kd 1 1 1
+map_Kd BenchFlat.bmp.png
+newmtl rd3_cobblebrown_m
+Kd 1 1 1
+map_Kd rd3_cobblebrown.bmp.png
+newmtl rd2_parking3brown_m
+Kd 1 1 1
+map_Kd rd2_parking3brown.bmp.png
+newmtl rd2_parking3_m
+Kd 1 1 1
+map_Kd rd2_parking3.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalkbrown.bmp.png
+newmtl asphalt_normbrown_m
+Kd 1 1 1
+map_Kd asphalt_normbrown.BMP.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl wally_sign_right_m
+Kd 1 1 1
+map_Kd wally_sign_right.bmp.png
+newmtl wally_wall_m
+Kd 1 1 1
+map_Kd wally_wall.bmp.png
+newmtl wally_window_m
+Kd 1 1 1
+map_Kd wally_window.bmp.png
+newmtl z1_whole_scene_fence_iron_m
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl z1patio_gry_found_light_wrm_m
+Kd 1 1 1
+map_Kd gry_found_light_wrm.bmp.png
+newmtl com_green_b_m
+Kd 1 1 1
+map_Kd com_green_b.bmp.png
+newmtl com_green_A_m
+Kd 1 1 1
+map_Kd com_green_A.bmp.png
+newmtl com_purp_m
+Kd 1 1 1
+map_Kd com_purp.BMP.png
+newmtl com_pink_d_m
+Kd 1 1 1
+map_Kd com_pink_d.bmp.png

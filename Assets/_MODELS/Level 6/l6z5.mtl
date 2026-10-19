@@ -1,0 +1,210 @@
+newmtl yooi_Fa_m
+Kd 1 1 1
+map_Kd yooi_Fa.bmp.png
+newmtl wrf_blue_A_m
+Kd 1 1 1
+map_Kd wrf_blue_A.bmp.png
+newmtl yooisign_m
+Kd 1 1 1
+map_Kd yooisign.bmp.1.png
+newmtl yooi_Fd_m
+Kd 1 1 1
+map_Kd yooi_Fd.bmp.png
+newmtl yooi_Fc_m
+Kd 1 1 1
+map_Kd yooi_Fc.bmp.png
+newmtl yooi_Fb_m
+Kd 1 1 1
+map_Kd yooi_Fb.bmp.png
+newmtl yooi_F_m
+Kd 1 1 1
+map_Kd yooi_F.bmp.png
+newmtl yooi_D_m
+Kd 1 1 1
+map_Kd yooi_D.bmp.png
+newmtl yooi_C_m
+Kd 1 1 1
+map_Kd yooi_C.bmp.png
+newmtl yooi_B_m
+Kd 1 1 1
+map_Kd yooi_B.bmp.png
+newmtl yooi_A_m
+Kd 1 1 1
+map_Kd yooi_A.bmp.png
+newmtl wrf_blue_B_m
+Kd 1 1 1
+map_Kd wrf_blue_B.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl rock_tan_top_m1
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl rock_moss_m
+Kd 1 1 1
+map_Kd rock_moss.BMP.png
+newmtl rd_Dirt_m
+Kd 1 1 1
+map_Kd rd_Dirt.BMP.png
+newmtl rd3_cobble_m
+Kd 1 1 1
+map_Kd rd3_cobble.BMP.png
+newmtl radioactive_m
+Kd 1 1 1
+map_Kd radioactive.bmp.png
+newmtl observatorysign_m
+Kd 1 1 1
+map_Kd observatorysign.BMP.png
+newmtl observatory_telescope_m
+Kd 1 1 1
+map_Kd observatory_telescope.bmp.png
+newmtl observatory_telescopeGlass_m
+Kd 1 1 1
+map_Kd observatory_telescopeGlass.bmp.png
+newmtl observatoryWall_m
+Kd 1 1 1
+map_Kd observatoryWall.bmp.png
+newmtl observatoryWall3_m
+Kd 1 1 1
+map_Kd observatoryWall3.bmp.png
+newmtl kudd_m
+Kd 1 1 1
+map_Kd kudd.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl fern_m
+Kd 1 1 1
+map_Kd fern.bmp.png
+newmtl dock_m
+Kd 1 1 1
+map_Kd dock.bmp.png
+newmtl dock_fence_m
+Kd 1 1 1
+map_Kd dock_fence.bmp.png
+newmtl ditch_m
+Kd 1 1 1
+map_Kd ditch.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl concblk_m
+Kd 1 1 1
+map_Kd concblk.bmp.png
+newmtl Treetrunk_redwood_m
+Kd 1 1 1
+map_Kd Treetrunk_redwood.BMP.png
+newmtl TreetrunkB_m1
+Kd 1 1 1
+map_Kd TreetrunkB.bmp.png
+newmtl TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB.bmp1.png
+newmtl Metal_roof_red_m
+Kd 1 1 1
+map_Kd Metal_roof_red.bmp.png
+newmtl Metal_roof_green_m
+Kd 1 1 1
+map_Kd Metal_roof_green.bmp.png
+newmtl Metal_roof_blue_m
+Kd 1 1 1
+map_Kd Metal_roof_blue.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl FoliageA_m
+Kd 1 1 1
+map_Kd FoliageA.BMP.png
+newmtl ClatRoof_m
+Kd 1 1 1
+map_Kd ClatRoof.bmp.png
+newmtl Camp_KrustyWood4_m
+Kd 1 1 1
+map_Kd Camp_KrustyWood4.bmp.png
+newmtl Camp_KrustyWood2_m
+Kd 1 1 1
+map_Kd Camp_KrustyWood2.bmp.png
+newmtl Camp_KrustyWood1_m
+Kd 1 1 1
+map_Kd Camp_KrustyWood1.bmp.png
+newmtl Camp_KrustyWindow_m
+Kd 1 1 1
+map_Kd Camp_KrustyWindow.bmp.png
+newmtl Camp_KrustyWindow3_m
+Kd 1 1 1
+map_Kd Camp_KrustyWindow3.bmp.png
+newmtl Camp_KrustyWindow1_m
+Kd 1 1 1
+map_Kd Camp_KrustyWindow1.bmp.png
+newmtl Camp_KrustyTotem_m
+Kd 1 1 1
+map_Kd Camp_KrustyTotem.bmp.png
+newmtl Camp_KrustySign_m
+Kd 1 1 1
+map_Kd Camp_KrustySign.bmp.png
+newmtl Camp_KrustySign1_m
+Kd 1 1 1
+map_Kd Camp_KrustySign1.bmp.png
+newmtl Camp_KrustyRoof_m
+Kd 1 1 1
+map_Kd Camp_KrustyRoof.bmp.png
+newmtl Camp_KrustyDoor1_m
+Kd 1 1 1
+map_Kd Camp_KrustyDoor1.bmp.png
+newmtl Bridge_a_m
+Kd 1 1 1
+map_Kd Bridge_a.bmp.png
+newmtl Bigleaf_m
+Kd 1 1 1
+map_Kd Bigleaf.bmp.png
+newmtl steps_conc_m1
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl sidewlk_m3
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sidewlk_m2
+Kd 1 1 1
+map_Kd sidewlk.bmp1.png
+newmtl rd_Dirt_m1
+Kd 1 1 1
+map_Kd rd_Dirt.BMP.png
+newmtl rd2_parking3_m1
+Kd 1 1 1
+map_Kd rd2_parking3.bmp.png
+newmtl rd2_norm_m1
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m1
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl path_sticks_m1
+Kd 1 1 1
+map_Kd path_sticks.bmp.png
+newmtl grassdirt_trans_m1
+Kd 1 1 1
+map_Kd grassdirt_trans.BMP.png
+newmtl grassA_m2
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl ditch_m1
+Kd 1 1 1
+map_Kd ditch.bmp.png
+newmtl concrete_m1
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl asphalt_norm_m1
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl Camp_KrustyDoor_m
+Kd 1 1 1
+map_Kd Camp_KrustyDoor.bmp.png
+newmtl Camp_KrustyDoor4_m
+Kd 1 1 1
+map_Kd Camp_KrustyDoor4.bmp.png

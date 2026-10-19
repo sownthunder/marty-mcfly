@@ -1,0 +1,185 @@
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl ItchyScratchyPoster_m
+Kd 1 1 1
+map_Kd ItchyScratchyPoster.bmp.png
+newmtl Metal_roof_green_m
+Kd 1 1 1
+map_Kd Metal_roof_green.bmp.png
+newmtl Metal_roof_red_m
+Kd 1 1 1
+map_Kd Metal_roof_red.bmp.png
+newmtl Globex_m
+Kd 1 1 1
+map_Kd Globex.bmp.png
+newmtl Metal_roof_blue_m
+Kd 1 1 1
+map_Kd Metal_roof_blue.bmp.png
+newmtl Fishingboats_b_m
+Kd 1 1 1
+map_Kd Fishingboats_b.bmp.png
+newmtl Dumpster_m
+Kd 1 1 1
+map_Kd Dumpster.bmp.png
+newmtl Dock_railing_m
+Kd 1 1 1
+map_Kd Dock_railing.bmp.png
+newmtl DaveyJones_g_m
+Kd 1 1 1
+map_Kd DaveyJones_g.bmp.png
+newmtl DaveyJones_f_m
+Kd 1 1 1
+map_Kd DaveyJones_f.bmp.png
+newmtl Fishingboats_c_m
+Kd 1 1 1
+map_Kd Fishingboats_c.bmp.png
+newmtl DaveyJones_e_m1
+Kd 1 1 1
+map_Kd DaveyJones_e.bmp.png
+newmtl DaveyJones_c_m
+Kd 1 1 1
+map_Kd DaveyJones_c.bmp.png
+newmtl DaveyJones_a_m
+Kd 1 1 1
+map_Kd DaveyJones_a.bmp.png
+newmtl Crane_b_m
+Kd 1 1 1
+map_Kd Crane_b.bmp.png
+newmtl Crane_a_m
+Kd 1 1 1
+map_Kd Crane_a.bmp.png
+newmtl BoatSign_m
+Kd 1 1 1
+map_Kd BoatSign.bmp.png
+newmtl wrf_wood_D_m
+Kd 1 1 1
+map_Kd wrf_wood_D.bmp.png
+newmtl z3_wholescene_bilboard_svijetlo_char_swatches_m59
+Kd 1 1 1
+newmtl DaveyJones_e_m
+Kd 1 1 1
+map_Kd DaveyJones_e.bmp1.png
+newmtl Taffyshop_b_m
+Kd 1 1 1
+map_Kd Taffyshop_b.bmp.png
+newmtl Taffyshop_c_m
+Kd 1 1 1
+map_Kd Taffyshop_c.bmp.png
+newmtl dockWood_m
+Kd 1 1 1
+map_Kd dockWood.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl submarineB_m
+Kd 1 1 1
+map_Kd submarineB.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl asphalt_country_m
+Kd 1 1 1
+map_Kd asphalt_country.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl r3track_char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl Sign_m
+Kd 1 1 1
+map_Kd Sign.bmp.png
+newmtl Taffyshop_a_m
+Kd 1 1 1
+map_Kd Taffyshop_a.bmp.png
+newmtl human_crate_m
+Kd 1 1 1
+map_Kd human_crate.bmp.png
+newmtl Taffyshop_d_m
+Kd 1 1 1
+map_Kd Taffyshop_d.bmp.png
+newmtl USS_Jebediah__Sign_m
+Kd 1 1 1
+map_Kd USS_Jebediah _Sign.bmp.png
+newmtl androidsdungeon_m
+Kd 1 1 1
+map_Kd androidsdungeon.BMP.png
+newmtl boxes_m
+Kd 1 1 1
+map_Kd boxes.bmp.png
+newmtl chain_m
+Kd 1 1 1
+map_Kd chain.bmp.png
+newmtl chevron_blue_m
+Kd 1 1 1
+map_Kd chevron_blue.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl cspanker_stair_m1
+Kd 1 1 1
+map_Kd handrail_stair.bmp1.png
+newmtl wrf_purple_C_m
+Kd 1 1 1
+map_Kd wrf_purple_C.bmp.png
+newmtl handrail_stair_m
+Kd 1 1 1
+map_Kd handrail_stair.bmp.png
+newmtl submarine_m
+Kd 1 1 1
+map_Kd submarine.bmp.png
+newmtl monorail_trainSide_m
+Kd 1 1 1
+map_Kd monorail_trainSide.BMP.png
+newmtl wrf_blue_A_m
+Kd 1 1 1
+map_Kd wrf_blue_A.bmp.png
+newmtl vent_m
+Kd 1 1 1
+map_Kd vent.bmp.png
+newmtl waterA_cola_m1
+Kd 1 1 1
+map_Kd waterA_cola.bmp.png
+newmtl wrf_blue_D_m
+Kd 1 1 1
+map_Kd wrf_blue_D.bmp.png
+newmtl wrf_blue_B_m
+Kd 1 1 1
+map_Kd wrf_blue_B.bmp.png
+newmtl wrf_blue_C_m
+Kd 1 1 1
+map_Kd wrf_blue_C.bmp.png
+newmtl wrf_brown_C_m
+Kd 1 1 1
+map_Kd wrf_brown_C.bmp.png
+newmtl wrf_brown_A_m
+Kd 1 1 1
+map_Kd wrf_brown_A.bmp.png
+newmtl wrf_brown_B_m
+Kd 1 1 1
+map_Kd wrf_brown_B.bmp.png
+newmtl wrf_grey_B_m
+Kd 1 1 1
+map_Kd wrf_grey_B.bmp.png
+newmtl wrf_brown_D_m
+Kd 1 1 1
+map_Kd wrf_brown_D.bmp.png
+newmtl wrf_grey_A_m
+Kd 1 1 1
+map_Kd wrf_grey_A.bmp.png
+newmtl wrf_grey_c_m
+Kd 1 1 1
+map_Kd wrf_grey_c.bmp.png
+newmtl wrf_grey_D_m
+Kd 1 1 1
+map_Kd wrf_grey_D.bmp.png
+newmtl wrf_grey_E_m
+Kd 1 1 1
+map_Kd wrf_grey_E.bmp.png
+newmtl wrf_purple_A_m
+Kd 1 1 1
+map_Kd wrf_purple_A.bmp.png
+newmtl dock_fence_m
+Kd 1 1 1
+map_Kd dock_fence.bmp.png

@@ -1,0 +1,210 @@
+newmtl ant_blue_A_m
+Kd 1 1 1
+map_Kd ant_blue_A.bmp.png
+newmtl ant_blue_C_m
+Kd 1 1 1
+map_Kd ant_blue_C.bmp.png
+newmtl ant_aqua_B_m1
+Kd 1 1 1
+map_Kd ant_aqua_B.bmp.png
+newmtl ant_green_A_m
+Kd 1 1 1
+map_Kd ant_green_A.bmp.png
+newmtl ant_blue_B_m
+Kd 1 1 1
+map_Kd ant_blue_B.bmp.png
+newmtl androidsdungeon_m
+Kd 1 1 1
+map_Kd androidsdungeon.BMP.png
+newmtl Wal_Brk_A_m
+Kd 1 1 1
+map_Kd Wal_Brk_A.bmp.png
+newmtl Wal_A_m
+Kd 1 1 1
+map_Kd Wal_A.bmp.png
+newmtl Rof_A_m
+Kd 1 1 1
+map_Kd Rof_A.bmp.png
+newmtl RightFluff_m
+Kd 1 1 1
+map_Kd RightFluff.bmp.png
+newmtl MainSig2_A_m
+Kd 1 1 1
+map_Kd MainSig2_A.bmp.png
+newmtl ant_aqua_B_m
+Kd 1 1 1
+map_Kd ant_aqua_B.bmp.png
+newmtl ant_aqua_A_m
+Kd 1 1 1
+map_Kd ant_aqua_A.bmp.png
+newmtl BowGreen_A_m
+Kd 1 1 1
+map_Kd BowGreen_A.bmp.png
+newmtl MainSig1_A_m
+Kd 1 1 1
+map_Kd MainSig1_A.bmp.png
+newmtl jh_sign_m
+Kd 1 1 1
+map_Kd jh_sign.bmp.png
+newmtl ASTEC_doors_m
+Kd 1 1 1
+map_Kd ASTEC_doors.bmp.png
+newmtl krust_backdoor_m
+Kd 1 1 1
+map_Kd krust_backdoor.bmp.png
+newmtl krust_frontdoor_m
+Kd 1 1 1
+map_Kd krust_frontdoor.bmp.png
+newmtl krust_roof_m
+Kd 1 1 1
+map_Kd krust_roof.bmp.png
+newmtl krust_wall_m
+Kd 1 1 1
+map_Kd krust_wall.bmp.png
+newmtl kudd_m
+Kd 1 1 1
+map_Kd kudd.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl movie_marquee_m
+Kd 1 1 1
+map_Kd movie_marquee.bmp.1.png
+newmtl shingles_grey_m
+Kd 1 1 1
+map_Kd shingles_grey.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl stadium_sign_m
+Kd 1 1 1
+map_Kd stadium_sign.bmp.png
+newmtl Bow_B_m
+Kd 1 1 1
+map_Kd Bow_B.bmp.png
+newmtl ant_porch_m
+Kd 1 1 1
+map_Kd ant_porch.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd3_cobblebrown_m
+Kd 1 1 1
+map_Kd rd3_cobblebrown.bmp.png
+newmtl rd2_parking3brown_m
+Kd 1 1 1
+map_Kd rd2_parking3brown.bmp.png
+newmtl rd2_crosswalkbrown_m
+Kd 1 1 1
+map_Kd rd2_crosswalkbrown.bmp.png
+newmtl gry_found_drk_cool_m
+Kd 1 1 1
+map_Kd gry_found_drk_cool.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl asphalt_normbrown_m
+Kd 1 1 1
+map_Kd asphalt_normbrown.bmp.png
+newmtl ant_aqua_C_m1
+Kd 1 1 1
+map_Kd ant_aqua_C.bmp.png
+newmtl ant_green_B_m
+Kd 1 1 1
+map_Kd ant_green_B.bmp.png
+newmtl ant_green_C_m
+Kd 1 1 1
+map_Kd ant_green_C.bmp.png
+newmtl ant_purp_B_m
+Kd 1 1 1
+map_Kd ant_purp_B.BMP.png
+newmtl ant_porch_m1
+Kd 1 1 1
+map_Kd ant_porch.bmp.png
+newmtl ant_purp_A_m
+Kd 1 1 1
+map_Kd ant_purp_A.bmp.png
+newmtl ant_yellow_A_m1
+Kd 1 1 1
+map_Kd ant_yellow_A.bmp.png
+newmtl ant_purp_C_m
+Kd 1 1 1
+map_Kd ant_purp_C.BMP.png
+newmtl ant_yellow_A_m
+Kd 1 1 1
+map_Kd ant_yellow_A.bmp.png
+newmtl ant_yellow_c_m
+Kd 1 1 1
+map_Kd ant_yellow_c.bmp.png
+newmtl ant_yellow_b_m
+Kd 1 1 1
+map_Kd ant_yellow_b.bmp.png
+newmtl ant_yellow_b_m1
+Kd 1 1 1
+map_Kd ant_yellow_b.bmp.png
+newmtl aztec_C_m
+Kd 1 1 1
+map_Kd aztec_C.bmp.png
+newmtl ant_yellow_c_m1
+Kd 1 1 1
+map_Kd ant_yellow_c.bmp.png
+newmtl aztec_B_m
+Kd 1 1 1
+map_Kd aztec_B.bmp.png
+newmtl aztec_ceiling_lights_m
+Kd 1 1 1
+map_Kd aztec ceiling_lights.bmp.png
+newmtl aztec_F_m
+Kd 1 1 1
+map_Kd aztec_F.bmp.png
+newmtl aztec_G_m
+Kd 1 1 1
+map_Kd aztec_G.bmp.png
+newmtl com_biege_m
+Kd 1 1 1
+map_Kd com_biege.bmp.png
+newmtl aztec_colums_m
+Kd 1 1 1
+map_Kd aztec_colums.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl com_pink_F_m
+Kd 1 1 1
+map_Kd com_pink_F.bmp.png
+newmtl com_blue_m
+Kd 1 1 1
+map_Kd com_blue.bmp.png
+newmtl com_orn_m
+Kd 1 1 1
+map_Kd com_orn.bmp.png
+newmtl fence_iron_m
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl concrete_m1
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl gate_white_m
+Kd 1 1 1
+map_Kd gate_white.bmp.png
+newmtl glass_sunset_m
+Kd 1 1 1
+map_Kd glass_sunset.bmp.png
+newmtl ticketbooth_m
+Kd 1 1 1
+map_Kd ticketbooth.bmp.png
+newmtl Aztecsign01_m
+Kd 1 1 1
+map_Kd Aztecsign01.bmp.png
+newmtl Aztecsign00_m
+Kd 1 1 1
+map_Kd Aztecsign00.bmp.png
+newmtl ant_aqua_C_m
+Kd 1 1 1
+map_Kd ant_aqua_C.bmp.png
