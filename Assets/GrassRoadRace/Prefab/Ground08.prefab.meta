@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7018b38d092a6145b2d84bbbfdc63f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Prefab/Ground08.prefab
+  uploadId: 96308

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be586f7a2d5b1934abf61a0f6b060ac7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Prefab/Bridge_Small.prefab
+  uploadId: 96308

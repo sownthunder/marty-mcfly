@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93ef639d2b0db154cb6d9e2146aa9d75
+timeCreated: 1494312367
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50690
+  packageName: Izzy - iClone Character
+  packageVersion: 1.02
+  assetPath: Assets/Izzy/prefab/Izzy.prefab
+  uploadId: 184228

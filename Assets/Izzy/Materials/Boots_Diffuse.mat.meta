@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f39de706a7f25954caa9325a74adb762
+timeCreated: 1493635529
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50690
+  packageName: Izzy - iClone Character
+  packageVersion: 1.02
+  assetPath: Assets/Izzy/Materials/Boots_Diffuse.mat
+  uploadId: 184228

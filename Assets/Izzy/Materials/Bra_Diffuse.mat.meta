@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d023b251844ee9e4aa7769977eda1e72
+timeCreated: 1493635533
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50690
+  packageName: Izzy - iClone Character
+  packageVersion: 1.02
+  assetPath: Assets/Izzy/Materials/Bra_Diffuse.mat
+  uploadId: 184228

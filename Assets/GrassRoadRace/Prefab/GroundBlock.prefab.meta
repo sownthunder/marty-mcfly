@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd7af5ae5c2bd564582f22acd0e943bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Prefab/GroundBlock.prefab
+  uploadId: 96308

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4252fbaf7bedeac4cb6f475953709d26
+timeCreated: 1493635519
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50690
+  packageName: Izzy - iClone Character
+  packageVersion: 1.02
+  assetPath: Assets/Izzy/Materials/Skin_Head_Diffuse.mat
+  uploadId: 184228

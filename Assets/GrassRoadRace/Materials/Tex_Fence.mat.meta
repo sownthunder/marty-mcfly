@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08029e47c457d4b41b4c4caf4a9d9aaf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Materials/Tex_Fence.mat
+  uploadId: 96308

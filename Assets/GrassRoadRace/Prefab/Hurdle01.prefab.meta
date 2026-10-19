@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 532ee50e20554ae4d8287b34e4c6bcb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Prefab/Hurdle01.prefab
+  uploadId: 96308

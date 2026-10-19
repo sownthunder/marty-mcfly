@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e817fb9f066550439c850b48a6d2cc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Prefab/GroundIsland.prefab
+  uploadId: 96308

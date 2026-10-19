@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3517325933a4f02419b118e4ac715d2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46974
+  packageName: Grass Road Race
+  packageVersion: 1.1
+  assetPath: Assets/GrassRoadRace/Prefab/PalmTree.prefab
+  uploadId: 96308
