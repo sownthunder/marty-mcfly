@@ -1,0 +1,218 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -8271594506445488981,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -214402432255984943,
+          "Name": "tex_ch003_020_hair_AAAT",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BreakMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 4742796175715102725,
+          "Name": "tex_pb_chara_int",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DitherTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -7967279123283075071,
+          "Name": "ditherTexture_int",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MetallicGlossMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 8825257847613685478,
+          "Name": "tex_ch003_020_hair_MROX",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 4956156401491050029,
+          "Name": "tex_ch003_020_ramp_hair",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AdditionalLightDiffuse": 0.5,
+      "_AdditionalLightMaxDiffuse": 1.0,
+      "_AffectDiffuseNormal": 1.0,
+      "_Alpha": 1.0,
+      "_AlphaClip": 0.0,
+      "_AmbientSaturate": 1.0,
+      "_Anisotropic": 0.95,
+      "_Blend": 0.0,
+      "_BumpScale": 1.0,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_Cull": 0.0,
+      "_Cutoff": 0.25,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 10.0,
+      "_EmissionIntensity": 1.0,
+      "_EnvironmentReflections": 1.0,
+      "_FresnelIntensity": 0.0,
+      "_GlossMapScale": 0.776,
+      "_Glossiness": 0.4472136,
+      "_GlossyReflections": 1.0,
+      "_Metallic": 0.1,
+      "_Mode": 3.0,
+      "_OcclusionStrength": 1.0,
+      "_OcclusionStrength_RT": 1.0,
+      "_Parallax": 0.02,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadowIntensity": 0.5,
+      "_ReceiveShadows": 1.0,
+      "_RimPower": 0.0,
+      "_RimPowerSecond": 0.0,
+      "_Smoothness": 0.4472136,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SpecularIntensity": 1.0,
+      "_SrcBlend": 5.0,
+      "_Surface": 1.0,
+      "_UVSec": 0.0,
+      "_VRLineSpeed": 0.0,
+      "_VRLineTiling": 0.0,
+      "_WorkflowMode": 1.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_AmbientMutiply": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_BreakColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RimColorSecond": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SpecColor": {
+        "r": 0.19999996,
+        "g": 0.19999996,
+        "b": 0.19999996,
+        "a": 1.0
+      },
+      "_VRColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_VRLineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "mat_ch003_020_hair_tp",
+  "Name": "mat_ch003_020_hair_tp"
+}

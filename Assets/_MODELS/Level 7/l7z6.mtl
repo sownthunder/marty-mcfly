@@ -1,0 +1,111 @@
+newmtl Burns_interior_g_m
+Kd 1 1 1
+map_Kd Burns_interior_g.bmp.png
+newmtl Burns_library_b_m
+Kd 1 1 1
+map_Kd Burns_library_b.bmp.png
+newmtl Burnsoffice_trimA_m
+Kd 1 1 1
+map_Kd Burnsoffice_trimA.bmp.png
+newmtl BurnsofficeA_m
+Kd 1 1 1
+map_Kd BurnsofficeA.bmp.png
+newmtl Burnsoffice_trimB_m
+Kd 1 1 1
+map_Kd Burnsoffice_trimB.bmp.png
+newmtl Burns_library_c_m
+Kd 1 1 1
+map_Kd Burns_library_c.bmp.png
+newmtl BurnsofficeD_m
+Kd 1 1 1
+map_Kd BurnsofficeD.bmp.png
+newmtl Burns_library_a_m
+Kd 1 1 1
+map_Kd Burns_library_a.bmp.png
+newmtl Burns_interior_e_m
+Kd 1 1 1
+map_Kd Burns_interior_e.bmp.png
+newmtl Burns_full_m
+Kd 1 1 1
+map_Kd Burns full.bmp.png
+newmtl Burns_background_m
+Kd 1 1 1
+map_Kd Burns_background.bmp.png
+newmtl Caf_tray_m
+Kd 1 1 1
+map_Kd Caf_tray.bmp.png
+newmtl Caf_lights_m
+Kd 1 1 1
+map_Kd Caf_lights.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl Pwrplnt_pit_a_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_a.bmp.png
+newmtl Pwrplnt_braces_m
+Kd 1 1 1
+map_Kd Pwrplnt_braces.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl Cafeteria_A_m
+Kd 1 1 1
+map_Kd Cafeteria_A.bmp.png
+newmtl Highrez_pipe_m
+Kd 1 1 1
+map_Kd Highrez_pipe.bmp.png
+newmtl Power_window_m
+Kd 1 1 1
+map_Kd Power_window.bmp.png
+newmtl Pwerplnt_core_m
+Kd 1 1 1
+map_Kd Pwerplnt_core.bmp.png
+newmtl Pwrplnt_glass_m
+Kd 1 1 1
+map_Kd Pwrplnt_glass.bmp.png
+newmtl Pwrplnt_pit_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_b.bmp.png
+newmtl Pwrplnt_pit_c_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_c.bmp.png
+newmtl Pwrplnt_pit_e_m
+Kd 1 1 1
+map_Kd Pwrplnt_pit_e.bmp.png
+newmtl Pwrplnt_towers_b_m
+Kd 1 1 1
+map_Kd Pwrplnt_towers_b.bmp.png
+newmtl Pwrplnt_towers_c_m
+Kd 1 1 1
+map_Kd Pwrplnt_towers_c.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl door_m
+Kd 1 1 1
+map_Kd door.bmp.png
+newmtl glowwindow_H_m
+Kd 1 1 1
+map_Kd glowwindow_H.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl grassC_m1
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl int_halsh_cobweb_m
+Kd 1 1 1
+map_Kd int_halsh_cobweb.bmp.png
+newmtl BurnsMansion_door_m
+Kd 1 1 1
+map_Kd BurnsMansion_door.bmp.png
+newmtl Bear_m
+Kd 1 1 1
+map_Kd Bear.bmp.png
+newmtl BurnsofficeC_m
+Kd 1 1 1
+map_Kd BurnsofficeC.bmp.png
+newmtl BurnsofficeB_m
+Kd 1 1 1
+map_Kd BurnsofficeB.bmp.png

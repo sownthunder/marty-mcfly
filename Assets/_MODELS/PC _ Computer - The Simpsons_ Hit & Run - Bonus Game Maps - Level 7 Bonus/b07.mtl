@@ -1,0 +1,93 @@
+newmtl baretree_
+Kd 1 1 1
+map_Kd halloween_bigtreebranch_bmp.png
+newmtl gry_found_drk_coo
+Kd 1 1 1
+map_Kd gry_found_drk_cool_bmp.png
+newmtl tomb_
+Kd 1 1 1
+map_Kd tomb_B_bmp.png
+newmtl blackwhit1
+Kd 1 1 1
+map_Kd blackwhite_bmp.png
+newmtl asphalt_nor1
+Kd 1 1 1
+map_Kd asphalt_norm_bmp.png
+newmtl halloween_bigtree_m
+Kd 1 1 1
+map_Kd halloween_bigtree_bmp.png
+newmtl cemetery_sig
+Kd 1 1 1
+map_Kd cemetery_sign_bmp.png
+newmtl green_brick_
+Kd 1 1 1
+map_Kd green_brick_A_bmp.png
+newmtl concret
+Kd 1 1 1
+map_Kd concrete_bmp.png
+newmtl gravestone_B_ligh
+Kd 1 1 1
+map_Kd gravestone_B_light_bmp.png
+newmtl fence_iron_
+Kd 1 1 1
+map_Kd fence_iron_bmp.png
+newmtl finish_lin
+Kd 1 1 1
+map_Kd finish_line_bmp.png
+newmtl firepi1
+Kd 1 1 1
+map_Kd firepit_bmp.png
+newmtl firepi2
+Kd 1 1 1
+map_Kd firepit_bmp.png
+newmtl grasssg
+Kd 1 1 1
+map_Kd grass_bmp.png
+newmtl concret1
+Kd 1 1 1
+map_Kd concrete_bmp1.png
+newmtl gravestone_B_ligh1
+Kd 1 1 1
+map_Kd gravestone_B_light_bmp.png
+newmtl start_lin
+Kd 1 1 1
+map_Kd start_line_bmp.png
+newmtl SpiderWe
+Kd 1 1 1
+map_Kd SpiderWeb_bmp.png
+newmtl gate_fancy_1
+Kd 1 1 1
+map_Kd gate_fancy_bmp.png
+newmtl ocean
+Kd 1 1 1
+map_Kd ocean1_bmp.png
+newmtl pampki1
+Kd 1 1 1
+map_Kd pampkin_bmp.png
+newmtl pampkinglo
+Kd 1 1 1
+map_Kd pampkinglow_bmp.png
+newmtl straight5
+Kd 1 1 1
+map_Kd straight3_bmp.png
+newmtl straight
+Kd 1 1 1
+map_Kd straight2_bmp.png
+newmtl start
+Kd 1 1 1
+map_Kd start2_bmp.png
+newmtl grass10
+Kd 1 1 1
+map_Kd grassC_bmp.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassC_bmp.png
+newmtl blackwhit
+Kd 1 1 1
+map_Kd blackwhite_bmp.png
+newmtl hedge_thorns_
+Kd 1 1 1
+map_Kd hedge_thorns_bmp.png
+newmtl watertowe
+Kd 1 1 1
+map_Kd watertower_bmp.png

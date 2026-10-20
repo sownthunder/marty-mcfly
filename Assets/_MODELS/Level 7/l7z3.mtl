@@ -1,0 +1,249 @@
+newmtl SchoolLadder_m
+Kd 1 1 1
+map_Kd SchoolLadder.bmp.png
+newmtl GrocerySign_m
+Kd 1 1 1
+map_Kd GrocerySign.bmp.png
+newmtl GroceryExit_m
+Kd 1 1 1
+map_Kd GroceryExit.bmp.png
+newmtl GroceryBrickMolding_m1
+Kd 1 1 1
+map_Kd GroceryBrickMolding.bmp.png
+newmtl GroceryBrickMolding_m
+Kd 1 1 1
+map_Kd GroceryBrickMolding.bmp.png
+newmtl HallowLibraryWall_stone_m
+Kd 1 1 1
+map_Kd HallowLibraryWall_stone.bmp.png
+newmtl ComCentreSign_m
+Kd 1 1 1
+map_Kd ComCentreSign.bmp.1.png
+newmtl skid_m
+Kd 1 1 1
+map_Kd skid.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl treeline_oak_m
+Kd 1 1 1
+map_Kd treeline_oak.bmp.png
+newmtl treeline_pine_m
+Kd 1 1 1
+map_Kd treeline_pine.bmp.png
+newmtl watertower_m
+Kd 1 1 1
+map_Kd watertower.bmp.png
+newmtl yellow_brick_Windows_m
+Kd 1 1 1
+map_Kd yellow_brick_Windows.bmp.png
+newmtl Sandbags_m
+Kd 1 1 1
+map_Kd Sandbags.bmp.png
+newmtl Halloween_flag_m
+Kd 1 1 1
+map_Kd Halloween_flag.bmp.png
+newmtl HalowLibrarySign_m
+Kd 1 1 1
+map_Kd HalowLibrarySign.bmp.png
+newmtl skeleton_m
+Kd 1 1 1
+map_Kd skeleton.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl rd1_norm_m
+Kd 1 1 1
+map_Kd rd1_norm.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl grassC_m3
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl grassC_m
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl driveway_dirt_m
+Kd 1 1 1
+map_Kd driveway_dirt.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl LibraryWallC_m
+Kd 1 1 1
+map_Kd LibraryWallC.bmp.png
+newmtl SchoolWallA_m
+Kd 1 1 1
+map_Kd SchoolWallA.bmp.png
+newmtl GrocerySign_m1
+Kd 1 1 1
+map_Kd GrocerySign.bmp.png
+newmtl SchoolSign_m
+Kd 1 1 1
+map_Kd SchoolSign.bmp.png
+newmtl School_prisonwin_m
+Kd 1 1 1
+map_Kd School_prisonwin.bmp.png
+newmtl SchoolWallC_m
+Kd 1 1 1
+map_Kd SchoolWallC.bmp.png
+newmtl School_prison_m
+Kd 1 1 1
+map_Kd School_prison.bmp.png
+newmtl Stonecutters_columnA_m
+Kd 1 1 1
+map_Kd Stonecutters_columnA.bmp.png
+newmtl School_salt_m
+Kd 1 1 1
+map_Kd School_salt.bmp.png
+newmtl Searchlight_m
+Kd 1 1 1
+map_Kd Searchlight.bmp.png
+newmtl TreetrunkB_m
+Kd 1 1 1
+map_Kd TreetrunkB.bmp.png
+newmtl Stonecutters_columnB_m
+Kd 1 1 1
+map_Kd Stonecutters_columnB.bmp.png
+newmtl Tent_m
+Kd 1 1 1
+map_Kd Tent.bmp.png
+newmtl bus_SIDEa_m
+Kd 1 1 1
+map_Kd bus_SIDEa.bmp.png
+newmtl WiiliesShackDoor_m
+Kd 1 1 1
+map_Kd WiiliesShackDoor.bmp.png
+newmtl WiiliesShackWindow_m
+Kd 1 1 1
+map_Kd WiiliesShackWindow.bmp.png
+newmtl bus_yel_m
+Kd 1 1 1
+map_Kd bus_yel.bmp.png
+newmtl bus_frontA_m
+Kd 1 1 1
+map_Kd bus_frontA.bmp.png
+newmtl bus_windowA_m
+Kd 1 1 1
+map_Kd bus_windowA.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl canon_tire_m
+Kd 1 1 1
+map_Kd canon_tire.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl com_brick_c_m
+Kd 1 1 1
+map_Kd com_brick_c.bmp.png
+newmtl com_brick_a_m
+Kd 1 1 1
+map_Kd com_brick_a.bmp.png
+newmtl com_brick_b_m
+Kd 1 1 1
+map_Kd com_brick_b.bmp.png
+newmtl com_deco_b_m
+Kd 1 1 1
+map_Kd com_deco_b.bmp.png
+newmtl com_brick_d_m
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl com_deco_a_m
+Kd 1 1 1
+map_Kd com_deco_a.bmp.png
+newmtl com_pink_F_m
+Kd 1 1 1
+map_Kd com_pink_F.bmp.png
+newmtl com_deco_c_m
+Kd 1 1 1
+map_Kd com_deco_c.bmp.png
+newmtl com_deco_d_m
+Kd 1 1 1
+map_Kd com_deco_d.bmp.png
+newmtl com_stucco_c_m
+Kd 1 1 1
+map_Kd com_stucco_c.bmp.png
+newmtl com_stucco_a_m
+Kd 1 1 1
+map_Kd com_stucco_a.bmp.png
+newmtl com_stucco_b_m
+Kd 1 1 1
+map_Kd com_stucco_b.bmp.png
+newmtl dumpster_m
+Kd 1 1 1
+map_Kd dumpster.bmp.png
+newmtl com_stucco_d_m
+Kd 1 1 1
+map_Kd com_stucco_d.bmp.png
+newmtl glowwindow_H_m
+Kd 1 1 1
+map_Kd glowwindow_H.bmp.png
+newmtl fence_cedar_m
+Kd 1 1 1
+map_Kd fence_cedar.bmp.png
+newmtl glass_day_m
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl grassC_m4
+Kd 1 1 1
+map_Kd grassC.bmp.png
+newmtl kzmb_m
+Kd 1 1 1
+map_Kd kzmb.bmp.png
+newmtl gry_found_drk_wrm_m1
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl halloweenSchoolDoor_m
+Kd 1 1 1
+map_Kd halloweenSchoolDoor.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl l07_elementary_rot_sign_m
+Kd 1 1 1
+map_Kd l07_elementary_rot_sign.bmp.2.png
+newmtl police_block_m
+Kd 1 1 1
+map_Kd police_block.bmp.png
+newmtl roof_B_m
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl rock_tan_top_m1
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl roof_A_m
+Kd 1 1 1
+map_Kd roof_A.bmp.png
+newmtl shrubRound_m
+Kd 1 1 1
+map_Kd shrubRound.BMP.png
+newmtl roof_B_m1
+Kd 1 1 1
+map_Kd roof_B.bmp.png
+newmtl roof_D_m
+Kd 1 1 1
+map_Kd roof_D.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl zombieCaffe_sign_m
+Kd 1 1 1
+map_Kd zombieCaffe_sign.bmp.png
+newmtl yellow_brick_m
+Kd 1 1 1
+map_Kd yellow_brick.bmp.png
