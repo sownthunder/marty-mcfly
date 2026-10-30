@@ -1,0 +1,142 @@
+# Blender 4.5.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl l2_citybase_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l5_citybase.bmp.png
+
+newmtl l2_citybase_m.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l5_citybase.bmp.png
+
+newmtl l2_cityline_NEW_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_cityline.bmp.png
+map_d l5_cityline.bmp.png
+
+newmtl l5_Cloudback_1_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_1.bmp.png
+map_d l5_Cloudback_1.bmp.png
+
+newmtl l5_Cloudback_1_m.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_1.bmp.png
+map_d l5_Cloudback_1.bmp.png
+
+newmtl l5_Cloudback_1_m.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_1.bmp.png
+map_d l5_Cloudback_1.bmp.png
+
+newmtl l5_Cloudback_2_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_2.bmp.png
+map_d l5_Cloudback_2.bmp.png
+
+newmtl l5_Cloudback_2_m.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_2.bmp.png
+map_d l5_Cloudback_2.bmp.png
+
+newmtl l5_Cloudback_2_m.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_2.bmp.png
+map_d l5_Cloudback_2.bmp.png
+
+newmtl l5_Cloudback_3_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_3.bmp.png
+map_d l5_Cloudback_3.bmp.png
+
+newmtl l5_Cloudback_3_m.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd l5_Cloudback_3.bmp.png
+map_d l5_Cloudback_3.bmp.png
+
+newmtl l5_backfade_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l5_backfade.bmp.png
+
+newmtl l5_topfade_m
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd l5_topfade.bmp.png
+
+newmtl starglow
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1

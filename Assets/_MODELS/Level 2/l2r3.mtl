@@ -1,0 +1,141 @@
+newmtl lionelhutz_m
+Kd 1 1 1
+map_Kd lionelhutz.bmp.png
+newmtl sign_expressway_m
+Kd 1 1 1
+map_Kd sign_expressway.bmp.png
+newmtl sign_detour_m
+Kd 1 1 1
+map_Kd sign_detour.bmp.png
+newmtl rivets_m
+Kd 1 1 1
+map_Kd rivets.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl signconstE_m
+Kd 1 1 1
+map_Kd signconstE.BMP.png
+newmtl signconstC_m
+Kd 1 1 1
+map_Kd signconstC.bmp.png
+newmtl mama_pizza_m
+Kd 1 1 1
+map_Kd mama_pizza.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl ctiyaerial_m
+Kd 1 1 1
+map_Kd ctiyaerial.BMP.png
+newmtl concrete_stad1a_m
+Kd 1 1 1
+map_Kd concrete_stad1a.bmp.png
+newmtl radio_tower_m
+Kd 1 1 1
+map_Kd radio_tower.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl chevron_blue_m
+Kd 1 1 1
+map_Kd chevron_blue.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl car_wrecked_yellow_m
+Kd 1 1 1
+map_Kd car_wrecked_yellow.BMP.png
+newmtl car_wrecked_blue_m
+Kd 1 1 1
+map_Kd car_wrecked_blue.bmp.png
+newmtl cCola_Wheel_m
+Kd 1 1 1
+map_Kd cCola_Wheel.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl WrS_Wood_D_m
+Kd 1 1 1
+map_Kd WrS_Wood_D.BMP.png
+newmtl WrS_Stucco_C_m
+Kd 1 1 1
+map_Kd WrS_Stucco_C.BMP.png
+newmtl WrS_Stucco_A_m
+Kd 1 1 1
+map_Kd WrS_Stucco_A.BMP.png
+newmtl WrS_OldBrick_D_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_D.BMP.png
+newmtl WrS_OldBrick_B_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_B.BMP.png
+newmtl WrS_OldBrick_A_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_A.BMP.png
+newmtl chevron_red_m
+Kd 1 1 1
+map_Kd chevron_red.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl truckasaurus_m
+Kd 1 1 1
+map_Kd truckasaurus.bmp.png
+newmtl street_lamp_m
+Kd 1 1 1
+map_Kd street_lamp.bmp.png
+newmtl Heltershelter_trims_a_m
+Kd 1 1 1
+map_Kd Heltershelter_trims_a.bmp.png
+newmtl Constructsite_c_m
+Kd 1 1 1
+map_Kd Constructsite_c.bmp.png
+newmtl Constructsite_a_m
+Kd 1 1 1
+map_Kd Constructsite_a.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl twr_horiz_a_m
+Kd 1 1 1
+map_Kd twr_horiz_a.bmp.png
+newmtl twr_horiz_c_m
+Kd 1 1 1
+map_Kd twr_horiz_c.bmp.png
+newmtl twr_vert_c_m
+Kd 1 1 1
+map_Kd twr_vert_c.bmp.png
+newmtl vehicle_semi_m
+Kd 1 1 1
+map_Kd vehicle_semi.BMP.png
+newmtl vent_m
+Kd 1 1 1
+map_Kd vent.bmp.png
+newmtl watertower_m
+Kd 1 1 1
+map_Kd watertower.bmp.png
+newmtl watertower_m1
+Kd 1 1 1
+map_Kd watertower.bmp.png
+newmtl Herman_trim_c_m
+Kd 1 1 1
+map_Kd Herman_trim_c.bmp.png
+newmtl Herman_trim_b_m
+Kd 1 1 1
+map_Kd Herman_trim_b.bmp.png
+newmtl TVantenna_m
+Kd 1 1 1
+map_Kd TVantenna.bmp.png
+newmtl PlasmaCenter_m
+Kd 1 1 1
+map_Kd PlasmaCenter.bmp.png

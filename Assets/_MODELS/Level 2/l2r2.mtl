@@ -1,0 +1,135 @@
+newmtl truckasaurus_m
+Kd 1 1 1
+map_Kd truckasaurus.bmp.png
+newmtl traintracks_m
+Kd 1 1 1
+map_Kd traintracks.bmp.png
+newmtl old_redbrick_E_m
+Kd 1 1 1
+map_Kd old_redbrick_E.bmp.png
+newmtl old_redbrick_C_m
+Kd 1 1 1
+map_Kd old_redbrick_C.bmp.png
+newmtl old_redbrick_A_m
+Kd 1 1 1
+map_Kd old_redbrick_A.bmp.png
+newmtl old_parapits_C_m
+Kd 1 1 1
+map_Kd old_parapits_C.bmp.png
+newmtl old_bluestone_A_m
+Kd 1 1 1
+map_Kd old_bluestone_A.bmp.png
+newmtl handrail_stair_m
+Kd 1 1 1
+map_Kd handrail_stair.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl boxes_m
+Kd 1 1 1
+map_Kd boxes.bmp.png
+newmtl WrS_Stucco_C_m
+Kd 1 1 1
+map_Kd WrS_Stucco_C.BMP.png
+newmtl WrS_Stucco_A_m
+Kd 1 1 1
+map_Kd WrS_Stucco_A.BMP.png
+newmtl WrS_OldBrick_D_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_D.BMP.png
+newmtl WrS_OldBrick_A_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_A.BMP.png
+newmtl WrS_Metal_D_m
+Kd 1 1 1
+map_Kd WrS_Metal_D.BMP.png
+newmtl WrS_Metal_A_m
+Kd 1 1 1
+map_Kd WrS_Metal_A.BMP.png
+newmtl Wood_m
+Kd 1 1 1
+map_Kd Wood.bmp.png
+newmtl Traincar_d_m
+Kd 1 1 1
+map_Kd Traincar_d.bmp.png
+newmtl Traincar_c_m
+Kd 1 1 1
+map_Kd Traincar_c.bmp.png
+newmtl Traincar_b_m
+Kd 1 1 1
+map_Kd Traincar_b.bmp.png
+newmtl Train_sign_m
+Kd 1 1 1
+map_Kd Train_sign.bmp.png
+newmtl Tea_wall_m
+Kd 1 1 1
+map_Kd Tea_wall.bmp.png
+newmtl Tea_factory_m
+Kd 1 1 1
+map_Kd Tea_factory.bmp.png
+newmtl Slide_factory_B_m
+Kd 1 1 1
+map_Kd Slide_factory_B.bmp.png
+newmtl Slide_factory_A_m
+Kd 1 1 1
+map_Kd Slide_factory_A.bmp.png
+newmtl SF_downs_m
+Kd 1 1 1
+map_Kd SF_downs.BMP.png
+newmtl RoundHouseWindow_m
+Kd 1 1 1
+map_Kd RoundHouseWindow.bmp.png
+newmtl RoundHouseWall_m
+Kd 1 1 1
+map_Kd RoundHouseWall.bmp.png
+newmtl RoundHouseRoof_m
+Kd 1 1 1
+map_Kd RoundHouseRoof.bmp.png
+newmtl Railyard_A_m
+Kd 1 1 1
+map_Kd Railyard_A.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl Grease_factory_m
+Kd 1 1 1
+map_Kd Grease_factory.bmp.png
+newmtl Constructsite_c_m
+Kd 1 1 1
+map_Kd Constructsite_c.bmp.png
+newmtl Constructsite_b_m
+Kd 1 1 1
+map_Kd Constructsite_b.bmp.png
+newmtl Constructsite_a_m
+Kd 1 1 1
+map_Kd Constructsite_a.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl rd_Dirt_trim_m
+Kd 1 1 1
+map_Kd rd_Dirt_trim.BMP.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl Traincar_a_m
+Kd 1 1 1
+map_Kd Traincar_a.bmp.png
+newmtl Trainbase_m
+Kd 1 1 1
+map_Kd Trainbase.bmp.png

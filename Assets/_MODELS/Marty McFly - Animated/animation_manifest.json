@@ -1,0 +1,120 @@
+{
+  "clips": [
+    {
+      "name": "Idle",
+      "durationSeconds": 3.2,
+      "frames": 97,
+      "fps": 30,
+      "loop": true
+    },
+    {
+      "name": "Walk",
+      "durationSeconds": 1.0,
+      "frames": 31,
+      "fps": 30,
+      "loop": true
+    },
+    {
+      "name": "Run",
+      "durationSeconds": 0.6666666666666666,
+      "frames": 21,
+      "fps": 30,
+      "loop": true
+    },
+    {
+      "name": "EnterCar",
+      "durationSeconds": 2.4,
+      "frames": 73,
+      "fps": 30,
+      "loop": false
+    },
+    {
+      "name": "SeatedIdle",
+      "durationSeconds": 3.2,
+      "frames": 97,
+      "fps": 30,
+      "loop": true
+    },
+    {
+      "name": "ExitCar",
+      "durationSeconds": 2.4,
+      "frames": 73,
+      "fps": 30,
+      "loop": false
+    },
+    {
+      "name": "TakeDamage",
+      "durationSeconds": 0.7,
+      "frames": 22,
+      "fps": 30,
+      "loop": false
+    },
+    {
+      "name": "Die",
+      "durationSeconds": 2.0,
+      "frames": 61,
+      "fps": 30,
+      "loop": false
+    }
+  ],
+  "validation": {
+    "Idle": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 9.797174646246611e-19,
+      "midpointMovementMetres": 0.008000254644364733,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 3.2
+    },
+    "Walk": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 0.0,
+      "midpointMovementMetres": 0.07729911365045694,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 1.0
+    },
+    "Run": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 0.0,
+      "midpointMovementMetres": 0.07262765022794239,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 0.6666666666666666
+    },
+    "EnterCar": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 0.6325250213799227,
+      "midpointMovementMetres": 0.41988946999641974,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 2.4
+    },
+    "SeatedIdle": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 0.0,
+      "midpointMovementMetres": 0.0,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 3.2
+    },
+    "ExitCar": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 0.6325250213799227,
+      "midpointMovementMetres": 0.5131721150487389,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 2.4
+    },
+    "TakeDamage": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 0.0,
+      "midpointMovementMetres": 0.4898331047609495,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 0.7
+    },
+    "Die": {
+      "finiteDeformation": true,
+      "loopEndpointErrorMetres": 1.7154836563217042,
+      "midpointMovementMetres": 0.6946913455326958,
+      "fbxImport": "PASS",
+      "importedDurationSeconds": 2.0
+    }
+  },
+  "unityValidation": "Pending: Unity license service unavailable during prior rig check",
+  "csharpCompilation": "PASS: compiled against installed Unity 6000.6.6f1 assemblies"
+}

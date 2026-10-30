@@ -1,0 +1,314 @@
+newmtl VetsSign_m
+Kd 1 1 1
+map_Kd VetsSign.bmp.png
+newmtl WrS_Wood_C_m
+Kd 1 1 1
+map_Kd WrS_Wood_C.BMP.png
+newmtl Zesty_Top_m
+Kd 1 1 1
+map_Kd Zesty_Top.bmp.png
+newmtl buildings_WrS_Metal_A_m
+Kd 1 1 1
+map_Kd WrS_Metal_A.BMP.png
+newmtl buildings_WrS_OldBrick_A_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_A.BMP.png
+newmtl WrS_Stucco_C_m
+Kd 1 1 1
+map_Kd WrS_Stucco_C.BMP.png
+newmtl WrS_Stucco_B_m
+Kd 1 1 1
+map_Kd WrS_Stucco_B.BMP.png
+newmtl WrS_Stucco_A_m
+Kd 1 1 1
+map_Kd WrS_Stucco_A.BMP.png
+newmtl WrS_OldBrick_D_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_D.BMP.png
+newmtl WrS_OldBrick_C_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_C.BMP.png
+newmtl WrS_OldBrick_B_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_B.BMP.png
+newmtl WrS_Stucco_D_m
+Kd 1 1 1
+map_Kd WrS_Stucco_D.BMP.png
+newmtl WrS_OldBrick_A_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_A.BMP.png
+newmtl WrS_Metal_C_m
+Kd 1 1 1
+map_Kd WrS_Metal_C.BMP.png
+newmtl WrS_Metal_B_m
+Kd 1 1 1
+map_Kd WrS_Metal_B.BMP.png
+newmtl WrS_Metal_A_m
+Kd 1 1 1
+map_Kd WrS_Metal_A.BMP.png
+newmtl WindsheildT_m
+Kd 1 1 1
+map_Kd WindsheildT.bmp.png
+newmtl WaterTower_m
+Kd 1 1 1
+map_Kd WaterTower.bmp.png
+newmtl VetsWindow_m
+Kd 1 1 1
+map_Kd VetsWindow.bmp.png
+newmtl VetsWall_m
+Kd 1 1 1
+map_Kd VetsWall.bmp.png
+newmtl WrS_Wood_D_m
+Kd 1 1 1
+map_Kd WrS_Wood_D.BMP.png
+newmtl VetsDoor_m
+Kd 1 1 1
+map_Kd VetsDoor.bmp.png
+newmtl Vent_m
+Kd 1 1 1
+map_Kd Vent.bmp.png
+newmtl TVantenna_m
+Kd 1 1 1
+map_Kd TVantenna.bmp.png
+newmtl SF_downs_m
+Kd 1 1 1
+map_Kd SF_downs.BMP.png
+newmtl Railyard_A_m
+Kd 1 1 1
+map_Kd Railyard_A.bmp.png
+newmtl Plasma_trim_e_m
+Kd 1 1 1
+map_Kd Plasma_trim_e.bmp.png
+newmtl WrS_Metal_D_m
+Kd 1 1 1
+map_Kd WrS_Metal_D.BMP.png
+newmtl Plasma_trim_d_m
+Kd 1 1 1
+map_Kd Plasma_trim_d.bmp.png
+newmtl Plasma_trim_a_m
+Kd 1 1 1
+map_Kd Plasma_trim_a.bmp.png
+newmtl PlasmaCenter_b_m
+Kd 1 1 1
+map_Kd PlasmaCenter_b.bmp.png
+newmtl LardVent_m
+Kd 1 1 1
+map_Kd LardVent.BMP.png
+newmtl Hermans_window_c_m
+Kd 1 1 1
+map_Kd Hermans_window_c.bmp.png
+newmtl Hermans_window_b_m
+Kd 1 1 1
+map_Kd Hermans_window_b.bmp.png
+newmtl Hermans_window_a_m
+Kd 1 1 1
+map_Kd Hermans_window_a.bmp.png
+newmtl Hermans_sign_m
+Kd 1 1 1
+map_Kd Hermans_sign.bmp.png
+newmtl Hermans_m
+Kd 1 1 1
+map_Kd Hermans.bmp.png
+newmtl Herman_trim_d_m
+Kd 1 1 1
+map_Kd Herman_trim_d.bmp.png
+newmtl Herman_trim_c_m
+Kd 1 1 1
+map_Kd Herman_trim_c.bmp.png
+newmtl Herman_trim_b_m
+Kd 1 1 1
+map_Kd Herman_trim_b.bmp.png
+newmtl Herman_trim_a_m
+Kd 1 1 1
+map_Kd Herman_trim_a.bmp.png
+newmtl Heltershelter_trims_c_m
+Kd 1 1 1
+map_Kd Heltershelter_trims_c.bmp.png
+newmtl Heltershelter_trims_b_m
+Kd 1 1 1
+map_Kd Heltershelter_trims_b.bmp.png
+newmtl Heltershelter_trims_a_m
+Kd 1 1 1
+map_Kd Heltershelter_trims_a.bmp.png
+newmtl Heltershelter_sign_m
+Kd 1 1 1
+map_Kd Heltershelter_sign.bmp.png
+newmtl Helterlight_m
+Kd 1 1 1
+map_Kd Helterlight.bmp.png
+newmtl Flags_colored_m
+Kd 1 1 1
+map_Kd Flags_colored.bmp.png
+newmtl FatherJames_m
+Kd 1 1 1
+map_Kd FatherJames.bmp.png
+newmtl Fan_m
+Kd 1 1 1
+map_Kd Fan.bmp.png
+newmtl DmvWindow_m
+Kd 1 1 1
+map_Kd DmvWindow.bmp.png
+newmtl DmvWall_m
+Kd 1 1 1
+map_Kd DmvWall.bmp.png
+newmtl DmvDoor_m
+Kd 1 1 1
+map_Kd DmvDoor.bmp.png
+newmtl DmvBigSign_m
+Kd 1 1 1
+map_Kd DmvBigSign.bmp.png
+newmtl DMV_buswindow_m
+Kd 1 1 1
+map_Kd DMV_buswindow.bmp.png
+newmtl DMV_busB_m
+Kd 1 1 1
+map_Kd DMV_busB.bmp.png
+newmtl DMV_busA_m
+Kd 1 1 1
+map_Kd DMV_busA.bmp.png
+newmtl Constructsite_c_m
+Kd 1 1 1
+map_Kd Constructsite_c.bmp.png
+newmtl Constructsite_b_m
+Kd 1 1 1
+map_Kd Constructsite_b.bmp.png
+newmtl Constructsite_a_m
+Kd 1 1 1
+map_Kd Constructsite_a.bmp.png
+newmtl Plasma_trim_c_m
+Kd 1 1 1
+map_Kd Plasma_trim_c.bmp.png
+newmtl Buzz_Cola_Board_m
+Kd 1 1 1
+map_Kd Buzz Cola Board.bmp.png
+newmtl buildings_WrS_OldBrick_D_m
+Kd 1 1 1
+map_Kd WrS_OldBrick_D.BMP.png
+newmtl join_the_army_m
+Kd 1 1 1
+map_Kd join the army.bmp.png
+newmtl old_bluestone_A_m
+Kd 1 1 1
+map_Kd old_bluestone_A.bmp.png
+newmtl old_parapits_C_m
+Kd 1 1 1
+map_Kd old_parapits_C.bmp.png
+newmtl old_redbrick_A_m
+Kd 1 1 1
+map_Kd old_redbrick_A.bmp.png
+newmtl old_redbrick_C_m
+Kd 1 1 1
+map_Kd old_redbrick_C.bmp.png
+newmtl old_redbrick_E_m
+Kd 1 1 1
+map_Kd old_redbrick_E.bmp.png
+newmtl sidewlk_old_m
+Kd 1 1 1
+map_Kd sidewlk_old.bmp.png
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl the_homer_m
+Kd 1 1 1
+map_Kd the_homer.BMP.png
+newmtl traintracks_m
+Kd 1 1 1
+map_Kd traintracks.bmp.png
+newmtl trynsave_metals_m
+Kd 1 1 1
+map_Kd trynsave_metals.BMP.png
+newmtl trynsave_rooftrim_m
+Kd 1 1 1
+map_Kd trynsave_rooftrim.BMP.png
+newmtl trynsave_sign_m
+Kd 1 1 1
+map_Kd trynsave_sign.BMP.png
+newmtl trynsave_wall_m
+Kd 1 1 1
+map_Kd trynsave_wall.BMP.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd_Dirt_m
+Kd 1 1 1
+newmtl rd3_cobble_m
+Kd 1 1 1
+map_Kd rd3_cobble.BMP.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl heltershelter_base_m
+Kd 1 1 1
+map_Kd heltershelter_base.bmp.png
+newmtl gry_found_light_wrm_m
+Kd 1 1 1
+map_Kd gry_found_light_wrm.bmp.png
+newmtl grate_tree_m
+Kd 1 1 1
+map_Kd grate_tree.BMP.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl ditchdark_m
+Kd 1 1 1
+map_Kd ditchdark.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl buildings_WrS_Stucco_A_m
+Kd 1 1 1
+map_Kd WrS_Stucco_A.BMP.png
+newmtl buildings_WrS_Stucco_C_m
+Kd 1 1 1
+map_Kd WrS_Stucco_C.BMP.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl char_swatches_m33
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl fence_barbwire_m
+Kd 1 1 1
+map_Kd fence_barbwire.bmp.png
+newmtl firetruck_wheel_m
+Kd 1 1 1
+map_Kd firetruck_wheel.bmp.png
+newmtl glass_day_m
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl glowwindow_m
+Kd 1 1 1
+map_Kd glowwindow.bmp.png
+newmtl handrail_stair_m
+Kd 1 1 1
+map_Kd handrail_stair.bmp.png
+newmtl heltershelter_base_b_m
+Kd 1 1 1
+map_Kd heltershelter_base_b.bmp.png
+newmtl heltershelter_base_c_m
+Kd 1 1 1
+map_Kd heltershelter_base_c.bmp.png
+newmtl BottomA_m
+Kd 1 1 1
+map_Kd BottomA.bmp.png
+newmtl WrS_Wood_B_m
+Kd 1 1 1
+map_Kd WrS_Wood_B.BMP.png
+newmtl WrS_Wood_A_m
+Kd 1 1 1
+map_Kd WrS_Wood_A.BMP.png

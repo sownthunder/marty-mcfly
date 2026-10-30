@@ -1,0 +1,279 @@
+newmtl twr_horiz_b_m
+Kd 1 1 1
+map_Kd twr_horiz_b.bmp.png
+newmtl twr_vert_c_m
+Kd 1 1 1
+map_Kd twr_vert_c.bmp.png
+newmtl twr_vert_b_m
+Kd 1 1 1
+map_Kd twr_vert_b.bmp.png
+newmtl twr_old_c_m
+Kd 1 1 1
+map_Kd twr_old_c.bmp.png
+newmtl twr_old_b_m
+Kd 1 1 1
+map_Kd twr_old_b.bmp.png
+newmtl twr_old_a_m
+Kd 1 1 1
+map_Kd twr_old_a.bmp.png
+newmtl twr_metal_c_m
+Kd 1 1 1
+map_Kd twr_metal_c.bmp.png
+newmtl twr_metal_b_m
+Kd 1 1 1
+map_Kd twr_metal_b.bmp.png
+newmtl twr_metal_a_m
+Kd 1 1 1
+map_Kd twr_metal_a.bmp.png
+newmtl twr_horiz_c_m
+Kd 1 1 1
+map_Kd twr_horiz_c.bmp.png
+newmtl twr_horiz_a_m
+Kd 1 1 1
+map_Kd twr_horiz_a.bmp.png
+newmtl truckasaurus_m
+Kd 1 1 1
+map_Kd truckasaurus.bmp.png
+newmtl sign_sale_m
+Kd 1 1 1
+map_Kd sign_sale.bmp.png
+newmtl sign_copy_m
+Kd 1 1 1
+map_Kd sign_copy.bmp.png
+newmtl sign_bank_m
+Kd 1 1 1
+map_Kd sign_bank.bmp.png
+newmtl sign_50off_m
+Kd 1 1 1
+map_Kd sign_50off.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl rivets_m
+Kd 1 1 1
+map_Kd rivets.bmp.png
+newmtl revrest_window_m
+Kd 1 1 1
+map_Kd revrest_window.bmp.png
+newmtl revrest_trim_m
+Kd 1 1 1
+map_Kd revrest_trim.bmp.png
+newmtl revrest_sign_m
+Kd 1 1 1
+map_Kd revrest_sign.bmp.png
+newmtl revrest_center_m
+Kd 1 1 1
+map_Kd revrest_center.bmp.png
+newmtl revrest_canopy_m
+Kd 1 1 1
+map_Kd revrest_canopy.bmp.png
+newmtl revrest_B_m
+Kd 1 1 1
+map_Kd revrest_B.bmp.png
+newmtl revrest_A_m
+Kd 1 1 1
+map_Kd revrest_A.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl police_tape_m
+Kd 1 1 1
+map_Kd police_tape.bmp.png
+newmtl parked_police_trunk_m
+Kd 1 1 1
+map_Kd parked_police_trunk.bmp.png
+newmtl parked_police_hood_m
+Kd 1 1 1
+map_Kd parked_police_hood.bmp.png
+newmtl parked_police_door_m
+Kd 1 1 1
+map_Kd parked_police_door.bmp.png
+newmtl monorail_window_m
+Kd 1 1 1
+map_Kd monorail_window.BMP.png
+newmtl monorail_trim_m
+Kd 1 1 1
+map_Kd monorail_trim.BMP.png
+newmtl monorail_trainSide_m
+Kd 1 1 1
+map_Kd monorail_trainSide.BMP.png
+newmtl monorail_sign_m
+Kd 1 1 1
+map_Kd monorail_sign.BMP.png
+newmtl monorail_railGrn_m
+Kd 1 1 1
+map_Kd monorail_railGrn.BMP.png
+newmtl monorail_railBlu_m
+Kd 1 1 1
+map_Kd monorail_railBlu.BMP.png
+newmtl monorail_door_m
+Kd 1 1 1
+map_Kd monorail_door.BMP.png
+newmtl monorail_column_m
+Kd 1 1 1
+map_Kd monorail_column.BMP.png
+newmtl monorail_blank_m
+Kd 1 1 1
+map_Kd monorail_blank.BMP.png
+newmtl metal_roof_grey_m
+Kd 1 1 1
+map_Kd metal_roof_grey.bmp.png
+newmtl mayorquimby_m
+Kd 1 1 1
+map_Kd mayorquimby.bmp.png
+newmtl mama_pizza_m
+Kd 1 1 1
+map_Kd mama_pizza.bmp.png
+newmtl magglass_wall_m
+Kd 1 1 1
+map_Kd magglass_wall.bmp.png
+newmtl magglass_trim_m
+Kd 1 1 1
+map_Kd magglass_trim.bmp.png
+newmtl magglass_metal_m
+Kd 1 1 1
+map_Kd magglass_metal.bmp.png
+newmtl magglass_handle_m
+Kd 1 1 1
+map_Kd magglass_handle.bmp.png
+newmtl lionelhutz_m
+Kd 1 1 1
+map_Kd lionelhutz.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl krust_wallA_m
+Kd 1 1 1
+map_Kd krust_wallA.bmp.png
+newmtl krust_roof_m
+Kd 1 1 1
+map_Kd krust_roof.bmp.png
+newmtl krust_frontdoor_m
+Kd 1 1 1
+map_Kd krust_frontdoor.bmp.png
+newmtl krust_backdoor_m
+Kd 1 1 1
+map_Kd krust_backdoor.bmp.png
+newmtl gry_found_light_cool_m
+Kd 1 1 1
+map_Kd gry_found_light_cool.bmp.png
+newmtl grassB_m
+Kd 1 1 1
+map_Kd grassB.bmp.png
+newmtl google_whitesign_m
+Kd 1 1 1
+map_Kd google_whitesign.bmp.1.png
+newmtl goog_sign_m
+Kd 1 1 1
+map_Kd goog_sign.bmp.png
+newmtl glass_day_m
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl firetruck_wheel_m
+Kd 1 1 1
+map_Kd firetruck_wheel.bmp.png
+newmtl firetruck_sign_m
+Kd 1 1 1
+map_Kd firetruck_sign.bmp.png
+newmtl firetruck_m
+Kd 1 1 1
+map_Kd firetruck.bmp.png
+newmtl firetruck_ladder_m
+Kd 1 1 1
+map_Kd firetruck_ladder.bmp.png
+newmtl escalator_steps_m
+Kd 1 1 1
+map_Kd escalator_steps.bmp.png
+newmtl escalator_sign_m
+Kd 1 1 1
+map_Kd escalator_sign.bmp.png
+newmtl escalator_side_m
+Kd 1 1 1
+map_Kd escalator_side.bmp.png
+newmtl escalator_rail_m
+Kd 1 1 1
+map_Kd escalator_rail.bmp.png
+newmtl vent_m
+Kd 1 1 1
+map_Kd vent.bmp.png
+newmtl elbartocoll_gry_found_light_cool_m
+Kd 1 1 1
+map_Kd gry_found_light_cool.bmp.png
+newmtl elbartocoll_concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl elbartocoll_asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl elbartocoll_Bl_metal_wrhse_D_m
+Kd 1 1 1
+map_Kd Bl_metal_wrhse_D.bmp.png
+newmtl dumpster_m
+Kd 1 1 1
+map_Kd dumpster.bmp.png
+newmtl ditchdark_m
+Kd 1 1 1
+map_Kd ditchdark.bmp.png
+newmtl concrete_m
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl canopy_yellow_m
+Kd 1 1 1
+map_Kd canopy_yellow.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl Police_sign_m
+Kd 1 1 1
+map_Kd Police_sign.bmp.png
+newmtl PoliceStation_e_m
+Kd 1 1 1
+map_Kd PoliceStation_e.bmp.png
+newmtl PoliceStation_d_m
+Kd 1 1 1
+map_Kd PoliceStation_d.bmp.png
+newmtl PoliceStation_c_m
+Kd 1 1 1
+map_Kd PoliceStation_c.bmp.png
+newmtl PoliceStation_b_m
+Kd 1 1 1
+map_Kd PoliceStation_b.bmp.png
+newmtl PoliceStation_a_m
+Kd 1 1 1
+map_Kd PoliceStation_a.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl Grate_m
+Kd 1 1 1
+map_Kd Grate.bmp.png
+newmtl DeliNewsSign_m
+Kd 1 1 1
+map_Kd DeliNewsSign.bmp.png
+newmtl Bl_metal_wrhse_D_m
+Kd 1 1 1
+map_Kd Bl_metal_wrhse_D.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl grate_tree_m
+Kd 1 1 1
+map_Kd grate_tree.BMP.png
+newmtl elbartocoll_twr_old_c_m
+Kd 1 1 1
+map_Kd twr_old_c.bmp.png
+newmtl elbartocoll_twr_horiz_a_m
+Kd 1 1 1
+map_Kd twr_horiz_a.bmp.png

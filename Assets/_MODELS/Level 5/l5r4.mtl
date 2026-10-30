@@ -1,0 +1,102 @@
+newmtl sdewlk_corne
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl fla
+Kd 1 1 1
+map_Kd flag.bmp.png
+newmtl fountain
+Kd 1 1 1
+map_Kd fountain1.bmp.png
+newmtl com_metal_1
+Kd 1 1 1
+map_Kd com_metal_c.bmp.png
+newmtl com_metal_
+Kd 1 1 1
+map_Kd com_metal_b.bmp.png
+newmtl com_brick_3
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl com_brick_2
+Kd 1 1 1
+map_Kd com_brick_c.bmp.png
+newmtl concret
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl com_brick_1
+Kd 1 1 1
+map_Kd com_brick_b.bmp.png
+newmtl char_swatche
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl asphalt_nor
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl Mugma
+Kd 1 1 1
+map_Kd Mugman.bmp.png
+newmtl stadium_nam
+Kd 1 1 1
+map_Kd stadium_name.bmp.png
+newmtl stadium_sig
+Kd 1 1 1
+map_Kd stadium_sign.bmp.0.png
+newmtl stadium_stipe
+Kd 1 1 1
+map_Kd stadium_stipes.bmp.png
+newmtl steps_con
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl com_brick_
+Kd 1 1 1
+map_Kd com_brick_a.bmp.png
+newmtl gry_found_drk_wr
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl twr_horiz_
+Kd 1 1 1
+map_Kd twr_horiz_c.bmp.png
+newmtl twr_old_
+Kd 1 1 1
+map_Kd twr_old_c.bmp.png
+newmtl sidewl
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl duf
+Kd 1 1 1
+map_Kd duff.bmp.png
+newmtl rd2_parkin
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_nor
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswal
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassB.bmp.png
+newmtl gate_chlin
+Kd 1 1 1
+map_Kd gate_chlink.bmp.png
+newmtl glowwindo
+Kd 1 1 1
+map_Kd glowwindow.bmp.png
+newmtl mayorquimb
+Kd 1 1 1
+map_Kd mayorquimby.bmp.png
+newmtl light
+Kd 1 1 1
+map_Kd lights.bmp.png
+newmtl lights_of
+Kd 1 1 1
+map_Kd lights_off.bmp.png
+newmtl tunne
+Kd 1 1 1
+map_Kd tunnel.bmp.png
+newmtl concrete_stad1
+Kd 1 1 1
+map_Kd concrete_stad1a.bmp.png
+newmtl concrete_bare_
+Kd 1 1 1
+map_Kd concrete_bare_a.bmp.png

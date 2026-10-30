@@ -1,0 +1,184 @@
+newmtl Duffbrewery_B_m
+Kd 1 1 1
+map_Kd Duffbrewery_B.bmp.png
+newmtl Duffbrew_trim_A_m
+Kd 1 1 1
+map_Kd Duffbrew_trim_A.bmp.png
+newmtl Duffbrewery_G_m
+Kd 1 1 1
+map_Kd Duffbrewery_G.bmp.png
+newmtl Duffbrewery_H_m
+Kd 1 1 1
+map_Kd Duffbrewery_H.bmp.png
+newmtl Duffbrewery_C_m
+Kd 1 1 1
+map_Kd Duffbrewery_C.bmp.png
+newmtl z4sidewalkcorner_sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl z4sidewalkcorner_grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rock_tan_top_m
+Kd 1 1 1
+map_Kd rock_tan_top.bmp.png
+newmtl rd2_parking3_m
+Kd 1 1 1
+map_Kd rd2_parking3.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl news_trim_B_m
+Kd 1 1 1
+map_Kd news_trim_B.bmp.png
+newmtl news_floor_m
+Kd 1 1 1
+map_Kd news_floor.bmp.png
+newmtl grate_tree_m
+Kd 1 1 1
+map_Kd grate_tree.BMP.png
+newmtl grassA_m
+Kd 1 1 1
+map_Kd grassA.bmp.png
+newmtl dockWood_m
+Kd 1 1 1
+map_Kd dockWood.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl Krusty_studio_wall2_m
+Kd 1 1 1
+map_Kd Krusty_studio_wall2.bmp.png
+newmtl Krusty_shingles_m
+Kd 1 1 1
+map_Kd Krusty_shingles.bmp.png
+newmtl Krusty_curtain_m
+Kd 1 1 1
+map_Kd Krusty_curtain.bmp.png
+newmtl KrustyStudio_roof_A_m
+Kd 1 1 1
+map_Kd KrustyStudio_roof_A.bmp.png
+newmtl KLu_circusring_m
+Kd 1 1 1
+map_Kd KLu_circusring.bmp.png
+newmtl Duffbrewery_L_m
+Kd 1 1 1
+map_Kd Duffbrewery_L.bmp.png
+newmtl Duffbrew_trim_C_m
+Kd 1 1 1
+map_Kd Duffbrew_trim_C.bmp.png
+newmtl Duffbrewery_K_m
+Kd 1 1 1
+map_Kd Duffbrewery_K.bmp.png
+newmtl Duffbrewery_I_m
+Kd 1 1 1
+map_Kd Duffbrewery_I.bmp.png
+newmtl Duffbrewery_J_m
+Kd 1 1 1
+map_Kd Duffbrewery_J.bmp.png
+newmtl ItchyScratchyPoster_m
+Kd 1 1 1
+map_Kd ItchyScratchyPoster.bmp.png
+newmtl KrustyStudio_A_m
+Kd 1 1 1
+map_Kd KrustyStudio_A.bmp.png
+newmtl Krusty_plack_m
+Kd 1 1 1
+map_Kd Krusty_plack.bmp.png
+newmtl Krusty_door_m
+Kd 1 1 1
+map_Kd Krusty_door.bmp.png
+newmtl Krusty_globe_m
+Kd 1 1 1
+map_Kd Krusty_globe.bmp.png
+newmtl Krusty_studio_wall2_m2
+Kd 1 1 1
+map_Kd Krusty_studio_wall2.bmp.png
+newmtl Krustystudio_C_m
+Kd 1 1 1
+map_Kd Krustystudio_C.bmp.png
+newmtl Krusty_trim_A_m
+Kd 1 1 1
+map_Kd Krusty_trim_A.bmp.png
+newmtl Krustyshow_sign_m
+Kd 1 1 1
+map_Kd Krustyshow_sign.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl Krustystudio_b_m
+Kd 1 1 1
+map_Kd Krustystudio_b.bmp.png
+newmtl Krustystudios_m
+Kd 1 1 1
+map_Kd Krustystudios.bmp.png
+newmtl Newsroom_A_m
+Kd 1 1 1
+map_Kd Newsroom_A.bmp.png
+newmtl Movie_trailer_A_m
+Kd 1 1 1
+map_Kd Movie_trailer_A.bmp.png
+newmtl Movie_trailer_B_m
+Kd 1 1 1
+map_Kd Movie_trailer_B.bmp.png
+newmtl Newsroom_D_m
+Kd 1 1 1
+map_Kd Newsroom_D.bmp.png
+newmtl Newsroom_B_m
+Kd 1 1 1
+map_Kd Newsroom_B.bmp.png
+newmtl Newsroom_C_m
+Kd 1 1 1
+map_Kd Newsroom_C.bmp.png
+newmtl RadioactivePoster_m
+Kd 1 1 1
+map_Kd RadioactivePoster.bmp.png
+newmtl Studio_sign_m
+Kd 1 1 1
+map_Kd Studio_sign.bmp.png
+newmtl chain_m
+Kd 1 1 1
+map_Kd chain.bmp.png
+newmtl dock_fence_m
+Kd 1 1 1
+map_Kd dock_fence.bmp.png
+newmtl duff_cge_m
+Kd 1 1 1
+map_Kd duff_cge.bmp.png
+newmtl lights_z3_wholescene_bilboard_svijetlo_char_swatches_m59
+Kd 1 1 1
+newmtl krustyPoster_m
+Kd 1 1 1
+map_Kd krustyPoster.bmp.png
+newmtl krusty_friends_m
+Kd 1 1 1
+map_Kd krusty_friends.bmp.png
+newmtl news_trim_C_m
+Kd 1 1 1
+map_Kd news_trim_C.bmp.png
+newmtl news_wall_m
+Kd 1 1 1
+map_Kd news_wall.bmp.png
+newmtl old_canopy_D_m
+Kd 1 1 1
+map_Kd old_canopy_D.bmp.png
+newmtl waterA_m
+Kd 1 1 1
+map_Kd waterA.bmp.png
+newmtl trailer_wheel_m
+Kd 1 1 1
+map_Kd trailer_wheel.bmp.png
+newmtl z3_wholescene_bilboard_svijetlo_char_swatches_m59
+Kd 1 1 1

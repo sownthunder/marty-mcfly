@@ -1,0 +1,26 @@
+Unity version: 6000.6.6f1
+Avatar valid: True
+Humanoid: True
+Vertices: 4916
+Skin bones: 21
+Hips: Hips
+LeftUpperLeg: LeftUpperLeg
+RightUpperLeg: RightUpperLeg
+LeftLowerLeg: LeftLowerLeg
+RightLowerLeg: RightLowerLeg
+LeftFoot: LeftFoot
+RightFoot: RightFoot
+Spine: Spine
+Chest: Chest
+Neck: Neck
+Head: Head
+LeftShoulder: LeftShoulder
+RightShoulder: RightShoulder
+LeftUpperArm: LeftUpperArm
+RightUpperArm: RightUpperArm
+LeftLowerArm: LeftLowerArm
+RightLowerArm: RightLowerArm
+LeftHand: LeftHand
+RightHand: RightHand
+LeftToes: LeftToes
+RightToes: RightToes

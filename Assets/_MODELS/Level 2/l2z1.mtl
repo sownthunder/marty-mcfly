@@ -1,0 +1,249 @@
+newmtl CH_LibertyTex
+Kd 1 1 1
+map_Kd CH_LibertyText.bmp.png
+newmtl com_metal_
+Kd 1 1 1
+map_Kd com_metal_b.bmp.png
+newmtl white_fence_
+Kd 1 1 1
+map_Kd white_fence.bmp.png
+newmtl com_stucco_
+Kd 1 1 1
+map_Kd com_stucco_a.bmp.png
+newmtl com_stucco_1
+Kd 1 1 1
+map_Kd com_stucco_b.bmp.png
+newmtl com_metal_1
+Kd 1 1 1
+map_Kd com_metal_c.bmp.png
+newmtl com_metal_2
+Kd 1 1 1
+map_Kd com_metal_d.bmp.png
+newmtl com_stucco_2
+Kd 1 1 1
+map_Kd com_stucco_c.bmp.png
+newmtl steps_con
+Kd 1 1 1
+map_Kd steps_conc.bmp.png
+newmtl sidewl
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corne
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl treeshad_overcast_
+Kd 1 1 1
+map_Kd treeshad_overcast.bmp.png
+newmtl truckasauru
+Kd 1 1 1
+map_Kd truckasaurus.bmp.png
+newmtl rd2_crosswal
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl grate_tre
+Kd 1 1 1
+map_Kd grate_tree.BMP.png
+newmtl grass
+Kd 1 1 1
+map_Kd grassB.bmp.png
+newmtl ditchdar
+Kd 1 1 1
+map_Kd ditchdark.bmp.png
+newmtl concret
+Kd 1 1 1
+map_Kd concrete.bmp.png
+newmtl char_swatche
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl asphalt_nor
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl SMkwindo
+Kd 1 1 1
+map_Kd SMkwindow.bmp.png
+newmtl SMk_Wal
+Kd 1 1 1
+map_Kd CH_BlankWall.bmp.png
+newmtl ParkWall
+Kd 1 1 1
+map_Kd ParkWallA.bmp.png
+newmtl water_
+Kd 1 1 1
+map_Kd water_A.bmp.png
+newmtl com_stucco_3
+Kd 1 1 1
+map_Kd com_stucco_d.bmp.png
+newmtl fence_iron_
+Kd 1 1 1
+map_Kd fence_iron.bmp.png
+newmtl fis
+Kd 1 1 1
+map_Kd fish.bmp.png
+newmtl fla
+Kd 1 1 1
+map_Kd flag.bmp.png
+newmtl hospital_rotating_sig
+Kd 1 1 1
+map_Kd hospital_rotating_sign.bmp.1.png
+newmtl lionelhut
+Kd 1 1 1
+map_Kd lionelhutz.BMP.png
+newmtl mama_pizz
+Kd 1 1 1
+map_Kd mama_pizza.bmp.png
+newmtl mayorquimb
+Kd 1 1 1
+map_Kd mayorquimby.bmp.png
+newmtl old_canopy_
+Kd 1 1 1
+map_Kd old_canopy_D.bmp.png
+newmtl streetlamp1
+Kd 1 1 1
+map_Kd streetlampC.bmp.png
+newmtl rd2_nor
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl CH_doorBotto
+Kd 1 1 1
+map_Kd CH_doorBottom.bmp.png
+newmtl BenchFla
+Kd 1 1 1
+map_Kd BenchFlat.bmp.png
+newmtl com_deco_3
+Kd 1 1 1
+map_Kd com_deco_d.bmp.png
+newmtl CH_roo
+Kd 1 1 1
+map_Kd CH_roof.bmp.png
+newmtl CH_doorTo
+Kd 1 1 1
+map_Kd CH_doorTop.bmp.png
+newmtl CH_plaque
+Kd 1 1 1
+map_Kd CH_plaques.bmp.png
+newmtl CaffeBooksSig
+Kd 1 1 1
+map_Kd CaffeBooksSign.bmp.png
+newmtl CH_sig
+Kd 1 1 1
+map_Kd CH_sign.bmp.png
+newmtl CH_window
+Kd 1 1 1
+map_Kd CH_windowA.bmp.png
+newmtl HospTri
+Kd 1 1 1
+map_Kd HospTrim.bmp.png
+newmtl GGG_family_vide
+Kd 1 1 1
+map_Kd GGG family video.bmp.png
+newmtl HospSign
+Kd 1 1 1
+map_Kd HospSigns.bmp.png
+newmtl JavaDoo
+Kd 1 1 1
+map_Kd JavaDoor.bmp.png
+newmtl HospWin
+Kd 1 1 1
+map_Kd HospWinA.bmp.png
+newmtl HospWin1
+Kd 1 1 1
+map_Kd HospWinB.bmp.png
+newmtl JavaWal
+Kd 1 1 1
+map_Kd JavaWall.bmp.png
+newmtl JavaSig
+Kd 1 1 1
+map_Kd JavaSign.bmp.png
+newmtl JavaSign
+Kd 1 1 1
+map_Kd JavaSignA.bmp.png
+newmtl MuseumWal
+Kd 1 1 1
+map_Kd MuseumWall.bmp.png
+newmtl JavaWindo
+Kd 1 1 1
+map_Kd JavaWindow.bmp.png
+newmtl MuseumSig
+Kd 1 1 1
+map_Kd MuseumSign.bmp.png
+newmtl PizzaBarberSig
+Kd 1 1 1
+map_Kd PizzaBarberSign.bmp.png
+newmtl ParkFence_
+Kd 1 1 1
+map_Kd ParkFence.bmp.png
+newmtl ParkLe
+Kd 1 1 1
+map_Kd ParkLeo.bmp.png
+newmtl SMk_Sig
+Kd 1 1 1
+map_Kd SMk_Sign.bmp.png
+newmtl RockWal
+Kd 1 1 1
+map_Kd RockWall.bmp.png
+newmtl SMk_Door
+Kd 1 1 1
+map_Kd SMk_DoorA.bmp.png
+newmtl SpringfieldSig
+Kd 1 1 1
+map_Kd SpringfieldSign.bmp.png
+newmtl TH_Doo
+Kd 1 1 1
+map_Kd TH_Door.bmp.png
+newmtl Suburbs_tree
+Kd 1 1 1
+map_Kd Suburbs_trees.bmp.png
+newmtl TH_Dom
+Kd 1 1 1
+map_Kd TH_Dome.bmp.png
+newmtl TH_sig
+Kd 1 1 1
+map_Kd TH_sign.bmp.png
+newmtl TH_Win
+Kd 1 1 1
+map_Kd TH_WinA.bmp.png
+newmtl TH_Win1
+Kd 1 1 1
+map_Kd TH_WinB.bmp.png
+newmtl canopy_pin
+Kd 1 1 1
+map_Kd canopy_pink.bmp.png
+newmtl TH_trim
+Kd 1 1 1
+map_Kd TH_trimD.bmp.png
+newmtl TS_JebTex
+Kd 1 1 1
+map_Kd TS_JebTexB.bmp.png
+newmtl com_brick_2
+Kd 1 1 1
+map_Kd com_brick_c.bmp.png
+newmtl com_brick_
+Kd 1 1 1
+map_Kd com_brick_a.bmp.png
+newmtl com_brick_1
+Kd 1 1 1
+map_Kd com_brick_b.bmp.png
+newmtl com_deco_1
+Kd 1 1 1
+map_Kd com_deco_b.bmp.png
+newmtl com_brick_3
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl com_deco_
+Kd 1 1 1
+map_Kd com_deco_a.bmp.png
+newmtl rd3_cobbl
+Kd 1 1 1
+map_Kd path.bmp.png
+newmtl com_deco_2
+Kd 1 1 1
+map_Kd com_deco_c.bmp.png
+newmtl rd2_parkin
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl shrubRoun
+Kd 1 1 1
+map_Kd shrubRound.bmp.png
+newmtl sign_hospita
+Kd 1 1 1
+map_Kd sign_hospital.bmp.png

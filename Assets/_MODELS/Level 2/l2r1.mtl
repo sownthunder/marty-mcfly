@@ -1,0 +1,171 @@
+newmtl donut_char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl firetruck_wheel_m
+Kd 1 1 1
+map_Kd firetruck_wheel.bmp.png
+newmtl firetruck_ladder_m
+Kd 1 1 1
+map_Kd firetruck_ladder.bmp.png
+newmtl fence_white_m
+Kd 1 1 1
+map_Kd fence_white.bmp.png
+newmtl fence_barbwire_m
+Kd 1 1 1
+map_Kd fence_barbwire.bmp.png
+newmtl firetruck_windshield_m
+Kd 1 1 1
+map_Kd firetruck_windshield.bmp.png
+newmtl firetruck_m
+Kd 1 1 1
+map_Kd firetruck.bmp.png
+newmtl firetruck_sign_m
+Kd 1 1 1
+map_Kd firetruck_sign.bmp.png
+newmtl dirt_strip_m
+Kd 1 1 1
+map_Kd dirt_strip.bmp.png
+newmtl com_brick_d_m
+Kd 1 1 1
+map_Kd com_brick_d.bmp.png
+newmtl com_brick_c_m
+Kd 1 1 1
+map_Kd com_brick_c.bmp.png
+newmtl com_brick_a_m
+Kd 1 1 1
+map_Kd com_brick_a.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl chainlink_m
+Kd 1 1 1
+map_Kd chainlink.bmp.png
+newmtl asphalt_norm_m
+Kd 1 1 1
+map_Kd asphalt_norm.bmp.png
+newmtl donut_Lard_Donut_m
+Kd 1 1 1
+map_Kd Lard_Donut.bmp.png
+newmtl MetalBarrierA_m
+Kd 1 1 1
+map_Kd MetalBarrierA.bmp.png
+newmtl Lard_Wall_b_m
+Kd 1 1 1
+map_Kd Lard_Wall_b.bmp.png
+newmtl LardVent_m
+Kd 1 1 1
+map_Kd LardVent.BMP.png
+newmtl LardDuct_m
+Kd 1 1 1
+map_Kd LardDuct.bmp.png
+newmtl ForLeaseSign_m
+Kd 1 1 1
+map_Kd ForLeaseSign.bmp.png
+newmtl Flags_colored_m
+Kd 1 1 1
+map_Kd Flags_colored.bmp.png
+newmtl Constructsite_c_m
+Kd 1 1 1
+map_Kd Constructsite_c.bmp.png
+newmtl Constructsite_b_m
+Kd 1 1 1
+map_Kd Constructsite_b.bmp.png
+newmtl Constructsite_a_m
+Kd 1 1 1
+map_Kd Constructsite_a.bmp.png
+newmtl CaffeBooksSign_m
+Kd 1 1 1
+map_Kd CaffeBooksSign.bmp.png
+newmtl Building_A_Better_Future1_m
+Kd 1 1 1
+map_Kd Building A Better Future1.bmp.png
+newmtl BenchFlat_m
+Kd 1 1 1
+map_Kd BenchFlat.bmp.png
+newmtl MeatPawnShopSign_m
+Kd 1 1 1
+map_Kd MeatPawnShopSign.bmp.png
+newmtl glass_day_m1
+Kd 1 1 1
+map_Kd glass_day.bmp.png
+newmtl wood_whitepaint1a_m
+Kd 1 1 1
+map_Kd wood_whitepaint1a.bmp.png
+newmtl sidewlk_m
+Kd 1 1 1
+map_Kd sidewlk.bmp.png
+newmtl sdewlk_corner_m
+Kd 1 1 1
+map_Kd sdewlk_corner.bmp.png
+newmtl rd2_parking_m
+Kd 1 1 1
+map_Kd rd2_parking.bmp.png
+newmtl rd2_norm_m
+Kd 1 1 1
+map_Kd rd2_norm.bmp.png
+newmtl rd2_crosswalk_m
+Kd 1 1 1
+map_Kd rd2_crosswalk.bmp.png
+newmtl grate_tree_m
+Kd 1 1 1
+map_Kd grate_tree.BMP.png
+newmtl grassB_m
+Kd 1 1 1
+map_Kd grassB.bmp.png
+newmtl gry_found_drk_wrm_m
+Kd 1 1 1
+map_Kd gry_found_drk_wrm.bmp.png
+newmtl krust_backdoor_m
+Kd 1 1 1
+map_Kd krust_backdoor.bmp.png
+newmtl krust_frontdoor_m
+Kd 1 1 1
+map_Kd krust_frontdoor.bmp.png
+newmtl krust_roof_m
+Kd 1 1 1
+map_Kd krust_roof.bmp.png
+newmtl krust_wallA_m
+Kd 1 1 1
+map_Kd krust_wallA.bmp.png
+newmtl lard_lad_m
+Kd 1 1 1
+map_Kd lard_lad.bmp.png
+newmtl letter_grid_m
+Kd 1 1 1
+map_Kd letter_grid.bmp.png
+newmtl old_canopy_D_m
+Kd 1 1 1
+map_Kd old_canopy_D.bmp.png
+newmtl old_georgbrick_A_m
+Kd 1 1 1
+map_Kd old_georgbrick_A.bmp.png
+newmtl old_georgbrick_C_m
+Kd 1 1 1
+map_Kd old_georgbrick_C.bmp.png
+newmtl old_parapits_C_m
+Kd 1 1 1
+map_Kd old_parapits_C.bmp.png
+newmtl old_redbrick_A_m
+Kd 1 1 1
+map_Kd old_redbrick_A.bmp.png
+newmtl old_redbrick_B_m
+Kd 1 1 1
+map_Kd old_redbrick_B.bmp.png
+newmtl old_redbrick_C_m
+Kd 1 1 1
+map_Kd old_redbrick_C.bmp.png
+newmtl old_redbrick_D_m
+Kd 1 1 1
+map_Kd old_redbrick_D.bmp.png
+newmtl old_storefront_A_m
+Kd 1 1 1
+map_Kd old_storefront_A.bmp.png
+newmtl old_storefront_C_m
+Kd 1 1 1
+map_Kd old_storefront_C.bmp.png
+newmtl old_yellowbrick_A_m
+Kd 1 1 1
+map_Kd old_yellowbrick_A.bmp.png
+newmtl old_yellowbrick_C_m
+Kd 1 1 1
+map_Kd old_yellowbrick_C.bmp.png

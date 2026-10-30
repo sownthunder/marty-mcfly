@@ -1,0 +1,41 @@
+{
+  "bones": 21,
+  "meshes": 1,
+  "vertices": 3963,
+  "fallbackVertices": 0,
+  "weights": {
+    "Character": {
+      "minSum": 0.9999999590218067,
+      "maxSum": 1.0000000414438546,
+      "unweighted": 0,
+      "maxInfluences": 4
+    }
+  },
+  "boneMap": {
+    "Hips": "Hips",
+    "Spine": "Spine",
+    "Chest": "Chest",
+    "Neck": "Neck",
+    "Head": "Head",
+    "LeftShoulder": "LeftShoulder",
+    "LeftUpperArm": "LeftUpperArm",
+    "LeftLowerArm": "LeftLowerArm",
+    "LeftHand": "LeftHand",
+    "LeftUpperLeg": "LeftUpperLeg",
+    "LeftLowerLeg": "LeftLowerLeg",
+    "LeftFoot": "LeftFoot",
+    "LeftToes": "LeftToes",
+    "RightShoulder": "RightShoulder",
+    "RightUpperArm": "RightUpperArm",
+    "RightLowerArm": "RightLowerArm",
+    "RightHand": "RightHand",
+    "RightUpperLeg": "RightUpperLeg",
+    "RightLowerLeg": "RightLowerLeg",
+    "RightFoot": "RightFoot",
+    "RightToes": "RightToes"
+  },
+  "fbxRoundTrip": "PASS",
+  "unityAvatarValidation": "PENDING: local Unity license service connection failed",
+  "tPose": "Arms normalized to horizontal",
+  "heightMetres": 1.656
+}
