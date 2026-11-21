@@ -1,0 +1,57 @@
+{
+  "model": "Photo-inspired retro time-machine toy coupe",
+  "units": "meters",
+  "up_axis": "Y",
+  "forward_axis": "+Z",
+  "approx_dimensions_m": [
+    2.2,
+    1.49,
+    4.5
+  ],
+  "wheel_radius_m": 0.342,
+  "doors": {
+    "style": "gullwing",
+    "opening_axis": "local Z",
+    "left_hinge_m": [
+      -0.325,
+      1.478,
+      -0.25
+    ],
+    "right_hinge_m": [
+      0.325,
+      1.478,
+      -0.25
+    ],
+    "left_open_rotation_degrees": -67,
+    "right_open_rotation_degrees": 67
+  },
+  "fire_effect": {
+    "trigger_speed_mph": 88,
+    "trigger_speed_mps": 39.33951999919811,
+    "emitter_mount": "rear tire ground contact",
+    "particle_space": "world"
+  },
+  "wheel_centers_m": {
+    "FL": [
+      -0.937,
+      0.355,
+      1.35
+    ],
+    "FR": [
+      0.937,
+      0.355,
+      1.35
+    ],
+    "RL": [
+      -0.937,
+      0.355,
+      -1.34
+    ],
+    "RR": [
+      0.937,
+      0.355,
+      -1.34
+    ]
+  },
+  "source_note": "Estimated stylization from one user photo; hidden details approximated."
+}
