@@ -1,0 +1,21 @@
+newmtl steps_conc_m
+Kd 1 1 1
+map_Kd steps_conc_bmp.png
+newmtl fla
+Kd 1 1 1
+map_Kd flag_bmp.png
+newmtl pure3dSimpleShader4
+Kd 1 1 1
+map_Kd stands_bmp.png
+newmtl pure3dSimpleShader12
+Kd 1 1 1
+map_Kd bggrass_bmp.png
+newmtl pure3dSimpleShader11
+Kd 1 1 1
+map_Kd redjump_bmp.png
+newmtl midre2
+Kd 1 1 1
+map_Kd midres_bmp.png
+newmtl midre1
+Kd 1 1 1
+map_Kd midres_bmp.png

@@ -1,0 +1,9 @@
+newmtl Krusty__HumanCola__Glass__8bitt_m
+Kd 1 1 1
+map_Kd Krusty_ HumanCola_ Glass_ 8bitt_64x64.bmp.png
+newmtl char_swatches_m
+Kd 1 1 1
+map_Kd char_swatches.bmp.png
+newmtl krusty_glass_m
+Kd 1 1 1
+map_Kd krusty_glass.bmp.png
